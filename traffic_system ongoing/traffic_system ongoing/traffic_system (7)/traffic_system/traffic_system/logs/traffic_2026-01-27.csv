@@ -1,0 +1,414 @@
+Timestamp,Session ID,Referrer,Destination,Device Type,Total Time (seconds),Clicks,IP,City,Proxy,Status,Error Reason
+2026-01-27 11:29:29,7b66cc01,https://ipowatch.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,13,0,176.227.240.65,,,FAIL,"Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to ""https://ipowatch.in/"", waiting until ""domcontentloaded""
+"
+2026-01-27 11:29:31,b65de001,https://scroll.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,15,0,176.227.240.65,,,FAIL,"Page.goto: Target page, context or browser has been closed"
+2026-01-27 11:29:32,d49fd2c4,https://www.samayaepaper.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,16,0,176.227.240.65,,,FAIL,"Page.goto: Target page, context or browser has been closed"
+2026-01-27 11:29:33,edab86b2,https://aajkaaldaily.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,17,0,176.227.240.65,,,FAIL,"Page.goto: Target page, context or browser has been closed"
+2026-01-27 11:29:34,ef306081,https://www.saamana.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,2,0,,,,FAIL,"Page.goto: Target page, context or browser has been closed"
+2026-01-27 11:29:35,5b0317c6,https://babycenter.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,4,0,176.227.240.65,,,FAIL,"Page.goto: net::ERR_ABORTED; maybe frame was detached?
+Call log:
+  - navigating to ""https://babycenter.in/"", waiting until ""domcontentloaded""
+"
+2026-01-27 11:29:36,4539b04a,https://babycentre.co.uk,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,6,0,176.227.240.65,,,FAIL,"Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to ""https://babycentre.co.uk/"", waiting until ""domcontentloaded""
+"
+2026-01-27 11:29:39,6dcb0c88,https://www.vogue.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,4,0,176.227.240.65,,,FAIL,"Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to ""https://www.vogue.com/"", waiting until ""domcontentloaded""
+"
+2026-01-27 11:29:39,997a0d48,https://tv9hindi.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,6,0,176.227.240.65,,,FAIL,"Page.goto: Target page, context or browser has been closed"
+2026-01-27 11:29:39,3d5dc33c,https://notebookcheck.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,23,0,176.227.240.65,,,FAIL,"Page.goto: Target page, context or browser has been closed"
+2026-01-27 11:29:39,a01cf13c,https://cinekerala.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,3,0,176.227.240.65,,,FAIL,"Page.goto: net::ERR_ABORTED at https://cinekerala.in/
+Call log:
+  - navigating to ""https://cinekerala.in/"", waiting until ""domcontentloaded""
+"
+2026-01-27 11:29:39,d013c58e,https://jagran.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,4,0,176.227.240.65,,,FAIL,"Page.goto: net::ERR_ABORTED at https://jagran.com/
+Call log:
+  - navigating to ""https://jagran.com/"", waiting until ""domcontentloaded""
+"
+2026-01-27 11:34:48,a83c7bb6,https://bdcricteam.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,102,2,176.227.240.71,,,SUCCESS,
+2026-01-27 11:34:51,73fc38c9,https://www.divyamarathi.bhaskar.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,106,1,176.227.240.71,,,SUCCESS,
+2026-01-27 11:34:54,7f45f37a,https://mindbodygreen.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,108,3,176.227.240.71,,,SUCCESS,
+2026-01-27 11:35:02,84eb0f45,https://divyahimachal.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,116,2,176.227.240.71,,,SUCCESS,
+2026-01-27 11:35:06,1d743408,https://www.pudhari.news,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,4,0,,,,FAIL,"Page.goto: Navigation to ""https://www.pudhari.news/"" is interrupted by another navigation to ""chrome-error://chromewebdata/""
+Call log:
+  - navigating to ""https://www.pudhari.news/"", waiting until ""domcontentloaded""
+"
+2026-01-27 11:35:50,9b1de55c,https://finance.yahoo.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,164,1,176.227.240.71,,,SUCCESS,
+2026-01-27 11:36:04,f77f740b,https://thesamaja.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,70,2,176.227.240.71,,,SUCCESS,
+2026-01-27 11:36:08,471ef82b,https://cinekerala.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,4,0,176.227.240.75,,,FAIL,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://cinekerala.in/
+Call log:
+  - navigating to ""https://cinekerala.in/"", waiting until ""domcontentloaded""
+"
+2026-01-27 11:36:10,05859078,https://www.ntvtelugu.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,64,3,176.227.240.75,,,SUCCESS,
+2026-01-27 11:36:15,076515b1,https://tdstaxindia.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,25,0,176.227.240.75,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://tdstaxindia.com/
+Call log:
+  - navigating to ""https://tdstaxindia.com/"", waiting until ""domcontentloaded""
+"
+2026-01-27 11:36:36,e9482682,https://pregnancy.about.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,25,0,176.227.240.75,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://pregnancy.about.com/
+Call log:
+  - navigating to ""https://pregnancy.about.com/"", waiting until ""domcontentloaded""
+"
+2026-01-27 11:36:54,c931ebce,https://digit.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,126,3,176.227.240.71,,,SUCCESS,
+2026-01-27 11:37:14,36c66c9a,https://equitymaster.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,142,1,176.227.240.71,,,SUCCESS,
+2026-01-27 11:37:29,13895606,https://patrika.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,73,2,176.227.240.75,,,SUCCESS,
+2026-01-27 11:38:14,4fe2ea42,https://dinamani.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,126,1,176.227.240.75,,,SUCCESS,
+2026-01-27 11:39:26,bdea4334,https://www.dailypunjabtimes.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,170,0,176.227.240.75,,,SUCCESS,
+2026-01-27 11:39:34,5a0602ef,https://health.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,124,2,176.227.240.75,,,SUCCESS,
+2026-01-27 11:40:18,4b82edd6,https://www.psychologytoday.com/intl,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,124,2,176.227.240.75,,,SUCCESS,
+2026-01-27 11:40:42,48b5231e,https://www.businesstoday.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,75,0,176.227.240.75,,,SUCCESS,
+2026-01-27 11:40:57,417c441b,https://www.nishamadhulika.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,222,0,176.227.240.75,,,SUCCESS,
+2026-01-27 11:40:59,4994fee8,https://delhimetrorail.info,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,244,0,176.227.240.75,,,SUCCESS,
+2026-01-27 11:42:00,fb8dc042,https://teluguonlinenews.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,145,0,176.227.240.75,,,SUCCESS,
+2026-01-27 11:42:27,2aed2bd0,https://www.dinamalar.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,129,1,176.227.240.21,,,SUCCESS,
+2026-01-27 11:42:44,690755bd,https://nwnews24.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,122,0,176.227.240.21,,,SUCCESS,
+2026-01-27 11:42:49,ff4955d3,https://aajtak.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,112,2,176.227.240.21,,,SUCCESS,
+2026-01-27 11:43:27,d76c835a,https://sportzwiki.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,148,1,176.227.240.21,,,SUCCESS,
+2026-01-27 11:44:24,0eb005da,https://africa.businessinsider.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,144,0,176.227.240.21,,,SUCCESS,
+2026-01-27 11:44:27,41e58227,https://everydayhealth.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,103,1,176.227.240.21,,,SUCCESS,
+2026-01-27 11:44:44,0d7dbc17,https://news18.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,136,1,176.227.240.21,,,SUCCESS,
+2026-01-27 11:45:12,9fa51222,https://indiatv.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,142,1,176.227.240.21,,,SUCCESS,
+2026-01-27 11:46:02,5f7336a3,https://tenders.indiamart.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,97,1,176.227.240.21,,,SUCCESS,
+2026-01-27 11:46:10,c6b111bd,https://www.moneycontrol.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,162,1,176.227.240.21,,,SUCCESS,
+2026-01-27 11:46:11,9070164e,https://mathrubhumi.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,104,0,176.227.240.21,,,SUCCESS,
+2026-01-27 11:46:27,c0817192,https://saamtv.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,103,1,176.227.240.21,,,SUCCESS,
+2026-01-27 11:46:46,6fdcda4b,https://www.prameyanews.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,93,1,176.227.240.61,,,SUCCESS,
+2026-01-27 11:47:48,2a9bf5bd,https://railyatri.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,98,1,176.227.240.61,,,SUCCESS,
+2026-01-27 11:48:25,8129cb6e,https://thehindu.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,117,0,176.227.240.61,,,SUCCESS,
+2026-01-27 11:48:41,7d393dc4,https://yummytummyaarthi.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,149,1,176.227.240.61,,,SUCCESS,
+2026-01-27 11:49:14,f3046fce,https://www.loksatta.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,147,1,176.227.240.61,,,SUCCESS,
+2026-01-27 11:49:32,b8e6254a,https://jagbani.punjabkesari.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,210,1,176.227.240.61,,,SUCCESS,
+2026-01-27 11:50:07,26677b5e,https://cricketaddictor.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,139,1,176.227.240.61,,,SUCCESS,
+2026-01-27 11:50:15,5dacc36a,https://ndtv.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,109,1,176.227.240.61,,,SUCCESS,
+2026-01-27 11:50:27,e8284c14,https://asianetnews.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,106,2,176.227.240.61,,,SUCCESS,
+2026-01-27 11:51:19,b6596ce2,https://giznext.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,124,1,176.227.240.61,,,SUCCESS,
+2026-01-27 11:52:14,48773458,https://www.samayaepaper.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,162,0,176.227.240.61,,,SUCCESS,
+2026-01-27 11:52:21,ff27a9bc,https://womens-health-advice.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,113,2,176.227.240.77,,,SUCCESS,
+2026-01-27 11:52:47,7fc322f5,https://phonearena.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,152,0,176.227.240.77,,,SUCCESS,
+2026-01-27 11:53:02,b9842a6b,https://bhaskar.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,102,2,176.227.240.77,,,SUCCESS,
+2026-01-27 11:53:39,ff8d07ba,https://niyomiyabarta.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,211,0,176.227.240.77,,,SUCCESS,
+2026-01-27 11:53:46,38a1ba9c,https://deccanherald.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,84,2,176.227.240.77,,,SUCCESS,
+2026-01-27 11:54:00,4d653a10,https://livehindustan.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,105,4,176.227.240.77,,,SUCCESS,
+2026-01-27 11:55:10,ae9988ca,https://economywatch.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,70,1,176.227.240.77,,,SUCCESS,
+2026-01-27 11:55:13,ae1489ef,https://kanaknews.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,86,2,176.227.240.77,,,SUCCESS,
+2026-01-27 11:55:17,5b44f4d8,https://www.teluguone.com/news,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,135,2,176.227.240.77,,,SUCCESS,
+2026-01-27 11:55:20,1daf3f4d,https://tv9hindi.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,101,2,176.227.240.77,,,SUCCESS,
+2026-01-27 11:55:28,b30c0a1e,https://nadunudi.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,161,1,176.227.240.77,,,SUCCESS,
+2026-01-27 11:55:37,6a73513b,https://m.fertilityfactor.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,26,0,176.227.240.19,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://m.fertilityfactor.com/
+Call log:
+  - navigating to ""https://m.fertilityfactor.com/"", waiting until ""domcontentloaded""
+"
+2026-01-27 11:56:43,8f3f9215,https://nutritionstripped.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,86,5,176.227.240.19,,,SUCCESS,
+2026-01-27 11:56:57,71d7f7bc,https://www.punjabijagran.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,103,2,176.227.240.19,,,SUCCESS,
+2026-01-27 11:56:58,d5a3ce76,https://m.gsmarena.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,90,1,176.227.240.19,,,SUCCESS,
+2026-01-27 11:57:02,10dffe1b,https://businessinsider.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,3,0,176.227.240.19,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://businessinsider.in/
+Call log:
+  - navigating to ""https://businessinsider.in/"", waiting until ""domcontentloaded""
+"
+2026-01-27 11:57:29,a78d78f0,https://thehindubusinessline.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,129,1,176.227.240.19,,,SUCCESS,
+2026-01-27 11:57:31,e3938b55,https://www.andhrajyothy.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,114,1,176.227.240.19,,,SUCCESS,
+2026-01-27 11:59:00,90888014,https://tastyrecipes.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,117,1,176.227.240.19,,,SUCCESS,
+2026-01-27 11:59:01,6b381a3f,https://www.nytimes.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,124,0,176.227.240.19,,,SUCCESS,
+2026-01-27 11:59:11,cb8f683f,https://navbharattimes.indiatimes.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,147,3,176.227.240.19,,,SUCCESS,
+2026-01-27 11:59:12,832eaf60,https://flightradar24.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,102,3,176.227.240.19,,,SUCCESS,
+2026-01-27 11:59:19,a96a1556,https://sharechat.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,107,1,176.227.240.19,,,SUCCESS,
+2026-01-27 11:59:47,0a575f59,https://gadgets360.com-Marathi,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,27,0,176.227.240.17,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://gadgets360.com-marathi/
+Call log:
+  - navigating to ""https://gadgets360.com-marathi/"", waiting until ""domcontentloaded""
+"
+2026-01-27 12:00:20,db858891,https://timesnownews.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,80,1,176.227.240.17,,,SUCCESS,
+2026-01-27 12:01:07,bed5235e,https://travelerdoor.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,80,2,176.227.240.17,,,SUCCESS,
+2026-01-27 12:01:19,cd7c18e2,https://www.samayaepaper.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,128,1,176.227.240.17,,,SUCCESS,
+2026-01-27 12:01:20,0de68139,https://cricketcountry.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,138,1,176.227.240.17,,,SUCCESS,
+2026-01-27 12:01:54,2fd1c6ad,https://hindustantimes.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,47,0,176.227.240.37,,,FAIL,"Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://hindustantimes.com/"", waiting until ""domcontentloaded""
+"
+2026-01-27 12:03:13,ec222c67,https://odishabhaskar.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,172,0,176.227.240.37,,,SUCCESS,
+2026-01-27 12:03:20,9f5bc924,https://www.tarunbharat.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,247,0,176.227.240.17,,,SUCCESS,
+2026-01-27 12:03:34,143c3d59,https://samakalikamalayalam.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,134,1,176.227.240.37,,,SUCCESS,
+2026-01-27 12:04:04,4c1b963f,https://www.vogue.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,163,0,176.227.240.37,,,SUCCESS,
+2026-01-27 12:04:06,30355b44,https://kannadaprabha.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,132,0,176.227.240.37,,,SUCCESS,
+2026-01-27 12:04:56,c775528c,https://indiatimes.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,102,1,176.227.240.37,,,SUCCESS,
+2026-01-27 12:05:57,2fcea68d,https://economictimes.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,110,1,176.227.240.39,,,SUCCESS,
+2026-01-27 12:06:00,81ad45c7,https://sportzwiki.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,145,0,176.227.240.37,,,SUCCESS,
+2026-01-27 12:06:08,04b6e0d8,https://oneindia.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,123,1,176.227.240.39,,,SUCCESS,
+2026-01-27 12:06:21,0fd1cbe7,https://dailythanthi.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,24,0,176.227.240.55,,,FAIL,"Page.goto: net::ERR_CERT_DATE_INVALID at https://dailythanthi.com/
+Call log:
+  - navigating to ""https://dailythanthi.com/"", waiting until ""domcontentloaded""
+"
+2026-01-27 12:06:39,77468a24,https://bleacherreport.com/,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,199,0,176.227.240.37,,,SUCCESS,
+2026-01-27 12:07:04,a3261627,https://www.food.ndtv.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,25,0,176.227.240.55,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.food.ndtv.com/
+Call log:
+  - navigating to ""https://www.food.ndtv.com/"", waiting until ""domcontentloaded""
+"
+2026-01-27 12:07:45,f10797cc,https://businessworld.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,169,0,176.227.240.39,,,SUCCESS,
+2026-01-27 12:08:25,c40d8955,https://pricedekho.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,137,1,176.227.240.55,,,SUCCESS,
+2026-01-27 12:08:33,7d294093,https://thewire.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,152,0,176.227.240.55,,,SUCCESS,
+2026-01-27 12:08:45,543ef417,https://bornfitness.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,143,2,176.227.240.55,,,SUCCESS,
+2026-01-27 12:09:51,7e0dc7e5,https://jagran.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,126,2,176.227.240.55,,,SUCCESS,
+2026-01-27 12:09:55,b9cb6415,https://sandesh.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,170,0,176.227.240.55,,,SUCCESS,
+2026-01-27 12:10:38,f0bc4614,https://zeebiz.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,113,1,176.227.240.55,,,SUCCESS,
+2026-01-27 12:10:45,dcb47020,https://vijaykarnataka.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,139,1,176.227.240.55,,,SUCCESS,
+2026-01-27 12:10:47,eb698490,https://www.awwwards.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,134,1,176.227.240.55,,,SUCCESS,
+2026-01-27 12:10:49,8d28c9fd,https://www.anandabazar.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,10,0,176.227.240.31,,,FAIL,"Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to ""https://www.anandabazar.com/"", waiting until ""domcontentloaded""
+"
+2026-01-27 12:10:49,672bc9ea,https://www.telugu.suryaa.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,2,0,176.227.240.31,,,FAIL,"Page.goto: net::ERR_ABORTED at https://www.telugu.suryaa.com/
+Call log:
+  - navigating to ""https://www.telugu.suryaa.com/"", waiting until ""domcontentloaded""
+"
+2026-01-27 12:10:49,8c6586dc,https://inmobi.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,4,0,176.227.240.31,,,FAIL,"Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to ""https://inmobi.com/"", waiting until ""domcontentloaded""
+"
+2026-01-27 12:10:51,02c12435,https://sambad.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,56,1,176.227.240.55,,,FAIL,Mouse.wheel: Connection closed while reading from the driver
+2026-01-27 12:10:51,9fda0ce3,https://malayalam.filmibeat.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,60,0,176.227.240.55,,,FAIL,Mouse.wheel: Connection closed while reading from the driver
+2026-01-27 12:11:23,5b6ec184,https://www.food.ndtv.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,24,0,176.227.240.31,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.food.ndtv.com/
+Call log:
+  - navigating to ""https://www.food.ndtv.com/"", waiting until ""domcontentloaded""
+"
+2026-01-27 12:12:30,daf96ed0,https://khanakhazana.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,91,1,176.227.240.31,,,SUCCESS,
+2026-01-27 12:12:39,977317d0,https://bollywoodlife.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,100,1,176.227.240.31,,,SUCCESS,
+2026-01-27 12:13:01,eb4119ff,https://cnn.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,97,2,176.227.240.31,,,SUCCESS,
+2026-01-27 12:13:17,86eac435,https://www.tv5news.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,138,2,176.227.240.31,,,SUCCESS,
+2026-01-27 12:14:01,3054a94d,https://laptop6.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,181,0,176.227.240.31,,,SUCCESS,
+2026-01-27 12:14:18,c50e8a93,https://indiatvnews.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,108,1,176.227.240.31,,,SUCCESS,
+2026-01-27 12:14:54,1516baab,https://healthtechinsider.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,134,0,176.227.240.31,,,SUCCESS,
+2026-01-27 12:15:06,d1c51fb9,https://laptopmag.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,125,2,176.227.240.31,,,SUCCESS,
+2026-01-27 12:15:47,8303c417,https://cookingvideos.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,53,1,176.227.240.31,,,FAIL,"Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026"", waiting until ""domcontentloaded""
+"
+2026-01-27 12:16:23,eb0cb61f,https://navabharat.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,142,1,176.227.240.31,,,SUCCESS,
+2026-01-27 12:16:26,0641a909,https://cinekerala.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,2,0,176.227.240.59,,,FAIL,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://cinekerala.in/
+Call log:
+  - navigating to ""https://cinekerala.in/"", waiting until ""domcontentloaded""
+"
+2026-01-27 12:16:33,b203a83f,https://www.reuters.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,195,0,176.227.240.31,,,SUCCESS,
+2026-01-27 12:16:49,03833ef3,https://babycentre.co.uk,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,151,1,176.227.240.31,,,SUCCESS,
+2026-01-27 12:16:59,1acfa7cb,https://virarjun.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,32,0,176.227.240.59,,,FAIL,"Page.goto: net::ERR_TIMED_OUT at https://virarjun.com/
+Call log:
+  - navigating to ""https://virarjun.com/"", waiting until ""domcontentloaded""
+"
+2026-01-27 12:17:04,cc7054b3,https://telugustop.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,118,1,176.227.240.59,,,SUCCESS,
+2026-01-27 12:19:02,2a5cdb58,https://inquisitr.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,132,2,176.227.240.59,,,SUCCESS,
+2026-01-27 12:19:08,d50e518d,https://sportzwiki.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,155,0,176.227.240.59,,,SUCCESS,
+2026-01-27 12:19:22,f4ede8ab,https://teluguonlinenews.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,143,0,176.227.240.59,,,SUCCESS,
+2026-01-27 12:19:22,8e7a6c9e,https://economictimes.indiatimes.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,137,1,176.227.240.59,,,SUCCESS,
+2026-01-27 12:20:11,bd98fa36,https://lindywell.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,263,0,176.227.240.59,,,SUCCESS,
+2026-01-27 12:21:21,966f9318,https://www.grihshobha.in/food,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,119,2,176.227.240.59,,,SUCCESS,
+2026-01-27 12:21:30,6c542ada,https://www.sonima.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,128,0,176.227.240.59,,,SUCCESS,
+2026-01-27 12:21:38,2528257a,https://www.pudhari.news,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,156,0,176.227.240.59,,,SUCCESS,
+2026-01-27 12:21:54,e75a131e,https://www.telugu.samayam.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,24,0,176.227.240.45,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.telugu.samayam.com/
+Call log:
+  - navigating to ""https://www.telugu.samayam.com/"", waiting until ""domcontentloaded""
+"
+2026-01-27 12:22:08,636efbaf,https://mykhel.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,179,0,176.227.240.59,,,SUCCESS,
+2026-01-27 12:22:53,d52cd2b2,https://livestrong.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,162,2,176.227.240.45,,,SUCCESS,
+2026-01-27 12:23:41,0ae76da9,https://www.samayaepaper.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,139,2,176.227.240.45,,,SUCCESS,
+2026-01-27 12:23:47,076fd5e8,https://www.indiewire.com/,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,99,1,176.227.240.45,,,SUCCESS,
+2026-01-27 12:24:16,029cf5e0,https://www.teluguone.com/news,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,157,0,176.227.240.45,,,SUCCESS,
+2026-01-27 12:24:34,42eaf993,https://odiapua.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,159,1,176.227.240.45,,,SUCCESS,
+2026-01-27 12:25:39,873b3b34,https://tv9hindi.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,111,2,176.227.240.45,,,SUCCESS,
+2026-01-27 12:25:53,4dd1d4f5,https://dnaindia.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,131,0,176.227.240.45,,,SUCCESS,
+2026-01-27 12:26:12,527ded29,https://prabhatkhabar.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,198,1,176.227.240.45,,,SUCCESS,
+2026-01-27 12:26:28,c28071e1,https://jagbani.punjabkesari.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,113,1,176.227.240.47,,,SUCCESS,
+2026-01-27 12:26:41,cc980cdb,https://fertilityfactor.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,145,0,176.227.240.47,,,SUCCESS,
+2026-01-27 12:27:40,f6ba250a,https://www.espn.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,121,4,176.227.240.49,,,SUCCESS,
+2026-01-27 12:27:49,29e56ba6,https://hubpages.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,68,0,176.227.240.49,,,SUCCESS,
+2026-01-27 12:27:58,87fb27af,https://forbes.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,125,0,176.227.240.49,,,SUCCESS,
+2026-01-27 12:28:04,2877a436,https://filmibeat.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,112,1,176.227.240.49,,,SUCCESS,
+2026-01-27 12:28:42,e10a3f48,https://www.sentinelassam.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,133,1,176.227.240.49,,,SUCCESS,
+2026-01-27 12:29:29,998fdb85,https://jansatta.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,108,1,176.227.240.49,,,SUCCESS,
+2026-01-27 12:29:34,947b5f2b,https://vijaykarnataka.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,89,1,176.227.240.49,,,SUCCESS,
+2026-01-27 12:29:37,664b93c9,https://telugulives.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,2,0,176.227.240.51,,,FAIL,"Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://telugulives.com/
+Call log:
+  - navigating to ""https://telugulives.com/"", waiting until ""domcontentloaded""
+"
+2026-01-27 12:30:10,90cba9b8,https://haribhoomi.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,131,1,176.227.240.49,,,SUCCESS,
+2026-01-27 12:30:22,a3570a12,https://xda-developers.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,152,3,176.227.240.49,,,SUCCESS,
+2026-01-27 12:31:24,fe2cc330,https://www.tarunbharat.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,161,0,176.227.240.49,,,SUCCESS,
+2026-01-27 12:31:28,6dad5b9e,https://kanaknews.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,119,1,176.227.240.51,,,SUCCESS,
+2026-01-27 12:31:58,8c30913c,https://cricketcountry.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,141,0,176.227.240.51,,,SUCCESS,
+2026-01-27 12:32:47,88ebe7fb,https://www.businessworld.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,145,1,176.227.240.67,,,SUCCESS,
+2026-01-27 12:32:55,7c359d12,https://mommypotamus.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,165,2,176.227.240.67,,,SUCCESS,
+2026-01-27 12:33:13,2ca6408e,https://cnn.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,74,4,176.227.240.67,,,SUCCESS,
+2026-01-27 12:33:51,edc8aad5,https://investopedia.com/,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,147,0,176.227.240.67,,,SUCCESS,
+2026-01-27 12:33:57,4ab286f4,https://odia.news18.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,148,1,176.227.240.67,,,SUCCESS,
+2026-01-27 12:34:30,f58b839d,https://asianetnews.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,102,1,176.227.240.67,,,SUCCESS,
+2026-01-27 12:34:56,3c971cae,https://indianrail.gov.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,103,2,176.227.240.67,,,SUCCESS,
+2026-01-27 12:35:03,745d75ad,https://www.punjabitribuneonline.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,66,0,176.227.240.67,,,FAIL,"Page.goto: net::ERR_EMPTY_RESPONSE at https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026
+Call log:
+  - navigating to ""https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026"", waiting until ""domcontentloaded""
+"
+2026-01-27 12:35:25,cb61ce69,https://www.thehindubusinessline.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,93,1,176.227.240.67,,,SUCCESS,
+2026-01-27 12:35:38,aaaa2c23,https://mayoclinic.org,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,162,1,176.227.240.67,,,SUCCESS,
+2026-01-27 12:35:43,2b9f0b68,https://livehindustan.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,46,0,176.227.240.67,,,FAIL,"Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://livehindustan.com/"", waiting until ""domcontentloaded""
+"
+2026-01-27 12:36:45,f62ac28f,https://www.ciol.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,80,1,176.227.240.71,,,SUCCESS,
+2026-01-27 12:36:49,4c3c5215,https://navbharattimes.indiatimes.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,105,1,176.227.240.71,,,SUCCESS,
+2026-01-27 12:37:43,953d7bf1,https://www.vogue.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,193,0,176.227.240.67,,,SUCCESS,
+2026-01-27 12:38:05,b3efc097,https://divyahimachal.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,142,0,176.227.240.71,,,SUCCESS,
+2026-01-27 12:38:24,72f34d8c,https://timesnownews.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,95,1,176.227.240.71,,,SUCCESS,
+2026-01-27 12:38:28,5e2b6523,https://www.dharitri.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,170,0,176.227.240.71,,,SUCCESS,
+2026-01-27 12:38:34,89b07aa4,https://businesstoday.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,109,1,176.227.240.71,,,SUCCESS,
+2026-01-27 12:39:44,8bab7269,https://mindbodygreen.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,80,0,176.227.240.71,,,SUCCESS,
+2026-01-27 12:39:47,3e1a6f1c,https://thenewsminute.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,101,1,176.227.240.71,,,SUCCESS,
+2026-01-27 12:39:54,737b1590,https://livehindustan.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,131,1,176.227.240.71,,,SUCCESS,
+2026-01-27 12:40:08,dcf4e868,https://www.tamil.samayam.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,24,0,176.227.240.71,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tamil.samayam.com/
+Call log:
+  - navigating to ""https://www.tamil.samayam.com/"", waiting until ""domcontentloaded""
+"
+2026-01-27 12:40:14,2ef1fbb6,https://maharashtratimes.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,100,3,176.227.240.71,,,SUCCESS,
+2026-01-27 12:40:31,37d5f186,https://www.vegrecipesofindia.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,36,1,176.227.240.71,,,FAIL,"Page.goto: net::ERR_ABORTED at https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026
+Call log:
+  - navigating to ""https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026"", waiting until ""domcontentloaded""
+"
+2026-01-27 12:40:41,9955d084,https://southlive.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,132,1,176.227.240.71,,,SUCCESS,
+2026-01-27 12:41:30,2b7f3709,https://giznext.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,75,3,176.227.240.75,,,SUCCESS,
+2026-01-27 12:42:26,6b0b2b8f,https://eisamay.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,137,2,176.227.240.75,,,SUCCESS,
+2026-01-27 12:42:29,62893dd9,https://elbebe.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,161,4,176.227.240.71,,,SUCCESS,
+2026-01-27 12:42:37,d619c69f,https://ahealthysliceoflife.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,115,1,176.227.240.75,,,SUCCESS,
+2026-01-27 12:42:48,8a30e325,https://odia.news18.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,78,2,176.227.240.75,,,SUCCESS,
+2026-01-27 12:43:01,6ce712d4,https://www.vogue.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,149,0,176.227.240.75,,,SUCCESS,
+2026-01-27 12:44:14,cb2f3b14,https://prabhasakshi.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,85,2,176.227.240.75,,,SUCCESS,
+2026-01-27 12:44:17,75ed9c9e,https://www.recipesinhindi.net,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,2,0,176.227.240.75,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.recipesinhindi.net/
+Call log:
+  - navigating to ""https://www.recipesinhindi.net/"", waiting until ""domcontentloaded""
+"
+2026-01-27 12:44:23,a9148b71,https://www.dinamalar.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,114,1,176.227.240.75,,,SUCCESS,
+2026-01-27 12:44:45,122077a9,https://womens-health-advice.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,139,1,176.227.240.75,,,SUCCESS,
+2026-01-27 12:46:01,0d1a01a0,https://whattoexpect.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,204,0,176.227.240.75,,,SUCCESS,
+2026-01-27 12:46:14,2abf353d,https://medindia.net,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,192,0,176.227.240.75,,,SUCCESS,
+2026-01-27 12:46:55,fc147a0e,https://www.theprajatantra.org/prajatantra,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,158,1,176.227.240.75,,,SUCCESS,
+2026-01-27 12:47:10,9ebfef28,https://www.mangalam.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,167,1,176.227.240.75,,,SUCCESS,
+2026-01-27 12:48:16,bcc07a31,https://yahoo.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,134,0,176.227.240.63,,,SUCCESS,
+2026-01-27 12:48:38,c0fe3a74,https://seithy.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,103,0,176.227.240.63,,,SUCCESS,
+2026-01-27 12:48:48,926cb2b1,https://timesofindia.indiatimes.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,242,0,176.227.240.75,,,SUCCESS,
+2026-01-27 12:49:02,6ec998da,https://bleacherreport.com/,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,111,0,176.227.240.63,,,SUCCESS,
+2026-01-27 12:49:15,355a661b,https://beauty-mantra.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,26,0,176.227.240.63,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://beauty-mantra.com/
+Call log:
+  - navigating to ""https://beauty-mantra.com/"", waiting until ""domcontentloaded""
+"
+2026-01-27 12:50:11,028a699d,https://nutritionstripped.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,114,1,176.227.240.63,,,SUCCESS,
+2026-01-27 12:50:19,e8a93631,https://uttamhindu.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,245,0,176.227.240.63,,,SUCCESS,
+2026-01-27 12:51:03,7de68f06,https://www.ap7am.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,121,1,176.227.240.63,,,SUCCESS,
+2026-01-27 12:51:10,ba896b65,https://thehindubusinessline.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,114,1,176.227.240.63,,,SUCCESS,
+2026-01-27 12:52:13,799b65d5,https://tamil.asianetnews.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,122,2,176.227.240.77,,,SUCCESS,
+2026-01-27 12:52:20,b83ed72b,https://tripadvisor.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,221,2,176.227.240.63,,,SUCCESS,
+2026-01-27 12:53:07,ace4fa8d,https://www.ntnews.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,124,1,176.227.240.77,,,SUCCESS,
+2026-01-27 12:53:07,53a37c99,https://thetelugunews.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,117,1,176.227.240.77,,,SUCCESS,
+2026-01-27 12:53:43,cafd8a7a,https://ndtv.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,204,0,176.227.240.77,,,SUCCESS,
+2026-01-27 12:54:24,01574110,https://indianexpress.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,131,0,176.227.240.77,,,SUCCESS,
+2026-01-27 12:55:09,d3401bb9,https://www.telugupost.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,168,0,176.227.240.77,,,SUCCESS,
+2026-01-27 12:55:34,e912b7f5,https://techradar.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,147,2,176.227.240.77,,,SUCCESS,
+2026-01-27 12:55:39,6e6572a8,https://eenadu.net,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,30,0,176.227.240.37,,,FAIL,"Page.goto: net::ERR_CERT_DATE_INVALID at https://eenadu.net/
+Call log:
+  - navigating to ""https://eenadu.net/"", waiting until ""domcontentloaded""
+"
+2026-01-27 12:55:46,fad4c15b,https://kannadaprabha.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,158,1,176.227.240.77,,,SUCCESS,
+2026-01-27 12:56:18,46a7814c,https://thehindu.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,114,1,176.227.240.77,,,SUCCESS,
+2026-01-27 12:57:07,c9355e27,https://foodnetwork.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,203,0,176.227.240.77,,,SUCCESS,
+2026-01-27 12:57:22,8cf58912,https://patrika.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,107,2,176.227.240.37,,,SUCCESS,
+2026-01-27 12:57:57,6e38a263,https://activebeat.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,137,1,176.227.240.37,,,SUCCESS,
+2026-01-27 12:57:59,80cae50e,https://pricedekho.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,133,1,176.227.240.37,,,SUCCESS,
+2026-01-27 12:58:34,46ce4534,https://becomegorgeous.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,135,1,176.227.240.37,,,SUCCESS,
+2026-01-27 12:59:10,5b0e8767,https://indiatoday.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,108,2,176.227.240.37,,,SUCCESS,
+2026-01-27 12:59:55,d898fb4c,https://www.maharashtratimes.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,115,1,176.227.240.37,,,SUCCESS,
+2026-01-27 13:00:00,8b995267,https://ndtv.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,123,1,176.227.240.37,,,SUCCESS,
+2026-01-27 13:00:14,eb3ed152,https://www.navatelangana.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,187,0,176.227.240.37,,,SUCCESS,
+2026-01-27 13:01:13,e03f5e49,https://androidauthority.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,158,0,176.227.240.37,,,SUCCESS,
+2026-01-27 13:01:37,5c5c1bac,https://msn.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,96,1,176.227.240.37,,,SUCCESS,
+2026-01-27 13:01:47,a2bf9351,https://bbc.com/hindi,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,92,1,176.227.240.55,,,SUCCESS,
+2026-01-27 13:02:11,c9fe66b3,https://vartamanjari.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,24,0,176.227.240.55,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://vartamanjari.in/
+Call log:
+  - navigating to ""https://vartamanjari.in/"", waiting until ""domcontentloaded""
+"
+2026-01-27 13:02:28,311bb150,https://momjunction.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,17,0,176.227.240.55,,,FAIL,"Page.goto: net::ERR_CERT_DATE_INVALID at https://momjunction.com/
+Call log:
+  - navigating to ""https://momjunction.com/"", waiting until ""domcontentloaded""
+"
+2026-01-27 13:03:03,44255740,https://softonic.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,188,0,176.227.240.37,,,SUCCESS,
+2026-01-27 13:03:03,9074c5b9,https://nseguide.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,110,1,176.227.240.55,,,SUCCESS,
+2026-01-27 13:03:04,d072fc4b,https://www.keralakaumudi.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,233,0,176.227.240.37,,,SUCCESS,
+2026-01-27 13:03:51,b50df364,https://www.punjabijagran.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,47,0,176.227.240.53,,,FAIL,"Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://www.punjabijagran.com/"", waiting until ""domcontentloaded""
+"
+2026-01-27 13:04:10,ba38bf5c,https://railyatri.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,101,3,176.227.240.53,,,SUCCESS,
+2026-01-27 13:04:11,4f7d9cbb,https://rakskitchen.net,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,67,0,176.227.240.53,,,SUCCESS,
+2026-01-27 13:04:15,4d60722d,https://karnatakatoday.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,24,0,176.227.240.53,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://karnatakatoday.in/
+Call log:
+  - navigating to ""https://karnatakatoday.in/"", waiting until ""domcontentloaded""
+"
+2026-01-27 13:04:18,09d665b2,https://nwnews24.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,161,0,176.227.240.55,,,SUCCESS,
+2026-01-27 13:04:41,d851dcf7,https://tamil.filmibeat.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,98,1,176.227.240.53,,,SUCCESS,
+2026-01-27 13:05:41,6daa09f9,https://www.businessinsider.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,91,1,176.227.240.53,,,SUCCESS,
+2026-01-27 13:06:08,d66d1e9d,https://sports.ndtv.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,109,1,176.227.240.53,,,SUCCESS,
+2026-01-27 13:06:12,3fbafa10,https://nse-india.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,3,0,176.227.240.31,,,FAIL,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://nse-india.com/
+Call log:
+  - navigating to ""https://nse-india.com/"", waiting until ""domcontentloaded""
+"
+2026-01-27 13:06:14,c9033409,https://www.telugu.greatandhra.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,1,0,176.227.240.31,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.telugu.greatandhra.com/
+Call log:
+  - navigating to ""https://www.telugu.greatandhra.com/"", waiting until ""domcontentloaded""
+"
+2026-01-27 13:06:34,aba43826,https://www.saamana.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,113,3,176.227.240.53,,,SUCCESS,
+2026-01-27 13:06:50,e13519d0,https://www.thanthitv.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,158,0,176.227.240.53,,,SUCCESS,
+2026-01-27 13:06:52,4cc46dc6,https://tarladalal.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,156,0,176.227.240.53,,,SUCCESS,
+2026-01-27 13:08:13,28106ec7,https://pcmag.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,151,0,176.227.240.31,,,SUCCESS,
+2026-01-27 13:08:45,9af89654,https://m.webmd.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,130,0,176.227.240.31,,,SUCCESS,
+2026-01-27 13:09:01,21e5534d,https://indianhealthyrecipes.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,129,0,176.227.240.31,,,SUCCESS,
+2026-01-27 13:09:51,cdb88aa7,https://www.moneycontrol.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,217,1,176.227.240.31,,,SUCCESS,
+2026-01-27 13:09:54,db0f9edf,https://bhaskar.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,101,1,176.227.240.31,,,SUCCESS,
+2026-01-27 13:10:20,599b0370,https://body-scuplting.wonderhowto.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,210,1,176.227.240.31,,,SUCCESS,
+2026-01-27 13:10:48,0f72499b,https://wikibio.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,106,1,176.227.240.31,,,SUCCESS,
+2026-01-27 13:11:05,c21e729f,https://www.outlookbusiness.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,140,2,176.227.240.31,,,SUCCESS,
+2026-01-27 13:11:31,dc467494,https://www.divyabhaskar.co.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,96,2,176.227.240.31,,,SUCCESS,
+2026-01-27 13:12:16,96049c44,https://punjabkesari.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,144,1,176.227.240.31,,,SUCCESS,
+2026-01-27 13:12:57,8b1102a2,https://www.sathyamonline.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,111,1,176.227.240.59,,,SUCCESS,
+2026-01-27 13:12:59,0e307349,https://indiamart.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,131,1,176.227.240.59,,,SUCCESS,
+2026-01-27 13:13:33,9e650df4,https://oneindia.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,122,1,176.227.240.59,,,SUCCESS,
+2026-01-27 13:14:11,40d06751,https://harpersbazaar.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,230,0,176.227.240.59,,,SUCCESS,
+2026-01-27 13:15:09,09e6d543,https://economywatch.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,95,1,176.227.240.59,,,SUCCESS,
+2026-01-27 13:15:16,f09d7e41,https://engadget.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,136,0,176.227.240.59,,,SUCCESS,
+2026-01-27 13:15:20,20227a76,https://yummytummyaarthi.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,183,0,176.227.240.59,,,SUCCESS,
+2026-01-27 13:16:02,190a88fc,https://amarujala.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,110,2,176.227.240.59,,,SUCCESS,
+2026-01-27 13:17:23,3e5195d5,https://notebookcheck.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,266,0,176.227.240.59,,,SUCCESS,
+2026-01-27 13:17:32,8f6ddd7e,https://cricketaddictor.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,131,1,176.227.240.45,,,SUCCESS,
+2026-01-27 13:17:50,a022a4c9,https://www.ajitjalandhar.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,154,0,176.227.240.45,,,SUCCESS,
+2026-01-27 13:18:07,eb8be8ba,https://gujaratimidday.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,178,0,176.227.240.45,,,SUCCESS,
+2026-01-27 13:18:12,884904d0,https://www.tv9telugu.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,130,2,176.227.240.45,,,SUCCESS,
+2026-01-27 13:19:48,64bed0e6,https://mathrubhumi.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,96,0,176.227.240.45,,,SUCCESS,
+2026-01-27 13:19:57,8468cc2a,https://x-rates.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,145,0,176.227.240.45,,,SUCCESS,
+2026-01-27 13:20:04,ce5e8560,https://elle.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,160,1,176.227.240.45,,,SUCCESS,
+2026-01-27 13:20:05,13520005,https://espncricinfo.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,117,2,176.227.240.45,,,SUCCESS,
+2026-01-27 13:20:10,e1b303c6,https://timesbull.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,139,0,176.227.240.45,,,SUCCESS,
+2026-01-27 13:22:06,f512d99a,https://nadunudi.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,137,0,176.227.240.45,,,SUCCESS,
+2026-01-27 13:22:11,95991851,https://www.psychologytoday.com/intl,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,133,1,176.227.240.45,,,SUCCESS,
+2026-01-27 13:22:15,c4a8c3e9,https://tamil.goodreturns.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,124,1,176.227.240.49,,,SUCCESS,
+2026-01-27 13:22:33,fd5d4e94,https://business-standard.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,149,1,176.227.240.49,,,SUCCESS,
+2026-01-27 13:22:50,62ac7489,https://www.phonearena.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,165,0,176.227.240.49,,,SUCCESS,
+2026-01-27 13:24:32,56f0996a,https://gizbot.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,146,1,176.227.240.49,,,SUCCESS,
+2026-01-27 13:24:32,7b1fbd85,https://wellnesstodaystudio.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,141,1,176.227.240.49,,,SUCCESS,
+2026-01-27 13:25:04,b36c73f7,https://babycenter.in,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,134,1,176.227.240.49,,,SUCCESS,
+2026-01-27 13:26:10,2d782162,https://eisamay.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,235,0,176.227.240.49,,,SUCCESS,
+2026-01-27 13:26:33,ca0a13cb,https://dailythanthi.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,23,0,176.227.240.67,,,FAIL,"Page.goto: net::ERR_CERT_DATE_INVALID at https://dailythanthi.com/
+Call log:
+  - navigating to ""https://dailythanthi.com/"", waiting until ""domcontentloaded""
+"
+2026-01-27 13:26:36,088a7f2d,https://www.nytimes.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,242,0,176.227.240.49,,,SUCCESS,
+2026-01-27 13:26:56,48fb1f89,https://dheivegam.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,143,1,176.227.240.49,,,SUCCESS,
+2026-01-27 13:27:25,3c3d7949,https://makemebabies.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,173,0,176.227.240.49,,,SUCCESS,
+2026-01-27 13:27:31,8fcd35ca,https://www.punjabijagran.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,147,0,176.227.240.67,,,SUCCESS,
+2026-01-27 13:27:48,53124832,https://asianetnews.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,23,1,176.227.240.67,,,FAIL,"Page.goto: Target page, context or browser has been closed"
+2026-01-27 13:27:54,8b6875b5,https://breakingkerala.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,5,0,176.227.240.67,,,FAIL,"Page.goto: Target page, context or browser has been closed"
+2026-01-27 13:27:55,f6cd489d,https://india.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,mobile,23,0,176.227.240.67,,,FAIL,"Page.goto: Target page, context or browser has been closed"
+2026-01-27 13:27:56,7e07b0e2,https://news18.com,https://www.indiaenergyweek.com/?utm_source=programmatic&utm_medium=integralmedia&utm_campaign=iew2026,desktop,60,1,176.227.240.67,,,FAIL,"Mouse.wheel: Target page, context or browser has been closed"

@@ -1,0 +1,1009 @@
+Timestamp,Session ID,Referrer,Destination,Device Type,Total Time (seconds),Clicks,IP,City,Proxy,Status,Error Reason
+2026-01-22 16:50:32,329a4c30,https://espncricinfo.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,61,2,176.227.240.75,,,FAIL,"Page.goto: net::ERR_ABORTED at https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass
+Call log:
+  - navigating to ""https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass"", waiting until ""domcontentloaded""
+"
+2026-01-22 16:50:35,45b6ccb9,https://beauty-mantra.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,64,0,176.227.240.75,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://beauty-mantra.com/
+Call log:
+  - navigating to ""https://beauty-mantra.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 16:51:08,27d6081c,https://www.deepika.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,98,0,176.227.240.75,,,FAIL,"Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://www.deepika.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 16:52:23,b3c314da,https://tupaki.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,107,0,176.227.240.23,,,FAIL,"empty range in randrange(4, 4)"
+2026-01-22 16:52:23,b2126dbf,https://keralafast.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,172,3,176.227.240.75,,,SUCCESS,
+2026-01-22 16:52:23,6eb2d4a5,https://niyomiyabarta.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,173,0,176.227.240.75,,,FAIL,"empty range in randrange(4, 4)"
+2026-01-22 16:52:56,18d756d7,https://businessinsider.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,32,0,176.227.240.23,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://businessinsider.in/
+Call log:
+  - navigating to ""https://businessinsider.in/"", waiting until ""domcontentloaded""
+"
+2026-01-22 16:53:12,e2de70a5,https://bengali.news18.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,159,1,176.227.240.23,,,FAIL,"empty range in randrange(4, 4)"
+2026-01-22 16:53:41,f85ba563,https://bollywoodshaadis.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,77,1,176.227.240.23,,,FAIL,"empty range in randrange(4, 4)"
+2026-01-22 16:54:11,f38c936c,https://irctc.co.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,75,1,176.227.240.23,,,FAIL,"Page.goto: Target page, context or browser has been closed"
+2026-01-22 16:54:13,39480e41,https://inmobi.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,32,0,,,,FAIL,"Page.goto: Target page, context or browser has been closed"
+2026-01-22 16:54:58,cb9e8b7c,https://yummytummyaarthi.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,229,0,176.227.240.23,,,FAIL,Mouse.wheel: Connection closed while reading from the driver
+2026-01-22 16:55:01,3934c475,https://top10homeremedies.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,49,0,176.227.240.23,,,FAIL,Page.goto: Connection closed while reading from the driver
+2026-01-22 17:54:26,d199a8a2,https://www.saamana.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,98,1,176.227.240.75,,,FAIL,"Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass"", waiting until ""domcontentloaded""
+"
+2026-01-22 17:54:26,cd53fe8b,https://tv9kannada.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,99,2,176.227.240.75,,,FAIL,"Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass"", waiting until ""domcontentloaded""
+"
+2026-01-22 17:54:55,b11cb2ed,https://cinemapranthan.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,128,1,176.227.240.75,,,SUCCESS,
+2026-01-22 17:55:15,756f8eea,https://top10homeremedies.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,20,0,,,,FAIL,"BrowserContext.new_page: Target page, context or browser has been closed"
+2026-01-22 17:55:16,dde4b417,https://asianetnews.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,50,0,176.227.240.75,,,FAIL,"Mouse.wheel: Target page, context or browser has been closed"
+2026-01-22 17:55:16,1546fd48,https://tamizhakam.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,49,0,176.227.240.75,,,FAIL,"Page.goto: Target page, context or browser has been closed"
+2026-01-22 17:55:22,27d82d91,https://tenders.indiamart.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,154,1,176.227.240.75,,,FAIL,BrowserContext.close: Connection closed while reading from the driver
+2026-01-22 17:55:23,b6d2c3da,https://businesschief.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,156,2,176.227.240.75,,,FAIL,BrowserContext.close: Connection closed while reading from the driver
+2026-01-22 18:32:29,750038f9,https://9gag.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,70,3,92.62.121.36,,,SUCCESS,
+2026-01-22 18:32:58,7187e0eb,https://androidauthority.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,98,1,92.62.121.36,,,SUCCESS,
+2026-01-22 18:33:01,bac8ce52,https://wynk.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,101,2,92.62.121.36,,,SUCCESS,
+2026-01-22 18:33:33,41cb7431,https://www.punjabijagran.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,133,4,92.62.121.36,,,SUCCESS,
+2026-01-22 18:33:37,22bf3123,https://odiapua.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,138,3,92.62.121.36,,,SUCCESS,
+2026-01-22 18:33:42,821fa321,https://zeebiz.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,44,2,92.62.121.36,,,SUCCESS,
+2026-01-22 18:34:37,64eaf308,https://onlymyhealth.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,96,6,92.62.121.36,,,SUCCESS,
+2026-01-22 18:34:47,ec334d94,https://www.moneycontrol.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,137,1,92.62.121.36,,,SUCCESS,
+2026-01-22 18:35:12,0a5d61e7,https://indiatoday.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,90,3,92.62.121.36,,,SUCCESS,
+2026-01-22 18:35:33,da5e3074,https://wellnessmama.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,120,2,92.62.121.36,,,SUCCESS,
+2026-01-22 18:35:34,b0ba0edc,https://navgujaratsamay.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,47,0,92.62.121.36,,,FAIL,"Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://navgujaratsamay.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 18:36:02,f00f4f18,https://odia.news18.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,144,3,92.62.121.36,,,SUCCESS,
+2026-01-22 18:36:52,44b02bcd,https://tamil.thehindu.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,99,1,92.62.121.36,,,SUCCESS,
+2026-01-22 18:37:19,652fe518,https://foodupe.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,104,2,92.62.121.166,,,SUCCESS,
+2026-01-22 18:37:21,537e03bc,https://dainiktribuneonline.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,163,2,92.62.121.36,,,SUCCESS,
+2026-01-22 18:37:41,12165e8e,https://economywatch.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,98,3,92.62.121.166,,,SUCCESS,
+2026-01-22 18:37:43,22f5f6c7,https://mediaupdatesmalayalam.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,24,0,92.62.121.164,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://mediaupdatesmalayalam.in/
+Call log:
+  - navigating to ""https://mediaupdatesmalayalam.in/"", waiting until ""domcontentloaded""
+"
+2026-01-22 18:37:53,f23e37d1,https://www.nytimes.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,139,4,92.62.121.36,,,SUCCESS,
+2026-01-22 18:38:07,122b1c77,https://prabhatkhabar.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,75,4,92.62.121.164,,,SUCCESS,
+2026-01-22 18:38:10,9b9ef36b,https://www.divyabhaskar.co.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,49,5,92.62.121.164,,,SUCCESS,
+2026-01-22 18:38:15,37ab7437,https://economictimes.indiatimes.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,8,1,92.62.121.164,,,FAIL,"Page.goto: net::ERR_ABORTED at https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass
+Call log:
+  - navigating to ""https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass"", waiting until ""domcontentloaded""
+"
+2026-01-22 18:38:20,03d7b9c2,https://www.telugu.suryaa.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,10,0,92.62.121.164,,,FAIL,"Page.goto: net::ERR_CERT_DATE_INVALID at https://www.telugu.suryaa.com/
+Call log:
+  - navigating to ""https://www.telugu.suryaa.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 18:39:13,1eff7409,https://vijayavani.net,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,91,1,92.62.121.164,,,SUCCESS,
+2026-01-22 18:39:37,d1b0a836,https://businessinsider.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,76,3,92.62.121.164,,,SUCCESS,
+2026-01-22 18:39:48,769ab6a6,https://foodnetwork.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,114,3,92.62.121.164,,,SUCCESS,
+2026-01-22 18:39:54,11f8daa6,https://ndtv.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,130,1,92.62.121.164,,,SUCCESS,
+2026-01-22 18:40:21,5aa9340c,https://epaper.pragativadi.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,27,0,92.62.121.164,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://epaper.pragativadi.com/
+Call log:
+  - navigating to ""https://epaper.pragativadi.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 18:40:23,e3eb2530,https://softonic.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,70,2,92.62.121.164,,,SUCCESS,
+2026-01-22 18:40:51,0f937821,https://worldmalayalilive.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,73,2,92.62.121.164,,,SUCCESS,
+2026-01-22 18:40:53,1a21d502,https://notebookcheck.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,158,0,92.62.121.164,,,SUCCESS,
+2026-01-22 18:41:01,3f4d13fa,https://engadget.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,73,2,92.62.121.164,,,SUCCESS,
+2026-01-22 18:41:40,8077512d,https://marathigold.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,78,4,92.62.121.164,,,SUCCESS,
+2026-01-22 18:42:19,64e226cd,https://cricbuzz.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,78,3,92.62.121.214,,,SUCCESS,
+2026-01-22 18:42:24,ca67cd1a,https://cricschedule.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,4,0,92.62.121.214,,,FAIL,"Page.goto: net::ERR_ABORTED at https://cricschedule.com/
+Call log:
+  - navigating to ""https://cricschedule.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 18:42:32,2f846b43,https://equitymaster.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,99,3,92.62.121.214,,,SUCCESS,
+2026-01-22 18:43:02,f8696aea,https://assamtribune.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,131,4,92.62.121.214,,,SUCCESS,
+2026-01-22 18:43:02,c35c37c1,https://ndtv.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,82,4,92.62.121.214,,,SUCCESS,
+2026-01-22 18:43:08,a240a58b,https://www.hollywoodreporter.com/,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,165,2,92.62.121.164,,,SUCCESS,
+2026-01-22 18:43:40,7ff1a38d,https://confirmtkt.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,76,6,92.62.121.214,,,SUCCESS,
+2026-01-22 18:44:11,b914173b,https://thehindu.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,99,4,92.62.121.214,,,SUCCESS,
+2026-01-22 18:44:18,d6977abd,https://cricketaddictor.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,75,5,92.62.121.214,,,SUCCESS,
+2026-01-22 18:44:21,7617ffaf,https://wonderhowto.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,79,4,92.62.121.214,,,SUCCESS,
+2026-01-22 18:44:32,d9f9625b,https://www.phonearena.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,83,6,92.62.121.214,,,SUCCESS,
+2026-01-22 18:45:09,b5372a7c,https://www.sathyamonline.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,48,4,92.62.121.214,,,SUCCESS,
+2026-01-22 18:45:13,e340d6ac,https://chitrajyothy.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,92,1,92.62.121.214,,,SUCCESS,
+2026-01-22 18:45:19,cdc0dfdf,https://kannada.drivespark.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,46,5,92.62.121.214,,,SUCCESS,
+2026-01-22 18:45:56,b4421af8,https://sakshi.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,104,2,92.62.121.214,,,SUCCESS,
+2026-01-22 18:46:05,d7911173,https://www.aajkaal.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,107,4,92.62.121.214,,,SUCCESS,
+2026-01-22 18:47:01,91be8b5e,https://www.espn.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,107,3,92.62.121.214,,,SUCCESS,
+2026-01-22 18:47:25,721c0eec,https://forbes.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,126,0,92.62.121.214,,,SUCCESS,
+2026-01-22 18:47:29,cd732aad,https://www.businessworld.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,83,2,92.62.121.182,,,SUCCESS,
+2026-01-22 18:47:49,4c942187,https://dnaindia.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,159,2,92.62.121.214,,,SUCCESS,
+2026-01-22 18:47:56,d848bf08,https://www.nawanzamana.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,26,0,92.62.121.182,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.nawanzamana.in/
+Call log:
+  - navigating to ""https://www.nawanzamana.in/"", waiting until ""domcontentloaded""
+"
+2026-01-22 18:48:12,24b89241,https://sandesh.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,136,2,92.62.121.182,,,SUCCESS,
+2026-01-22 18:48:24,7fcf3866,https://asianetnews.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,83,1,92.62.121.182,,,SUCCESS,
+2026-01-22 18:48:31,a764c41d,https://mindbodygreen.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,65,3,92.62.121.182,,,SUCCESS,
+2026-01-22 18:49:25,4f3c59f4,https://vijaykarnataka.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,72,3,92.62.121.182,,,SUCCESS,
+2026-01-22 18:49:54,66ab5242,https://www.anandabazar.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,125,3,92.62.121.182,,,SUCCESS,
+2026-01-22 18:49:56,4189fb7d,https://techradar.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,85,2,92.62.121.182,,,SUCCESS,
+2026-01-22 18:49:58,baebe671,https://gadgets360.com- Hindi,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,2,0,92.62.121.182,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://gadgets360.com- Hindi
+Call log:
+  - navigating to ""https://gadgets360.com- Hindi"", waiting until ""domcontentloaded""
+"
+2026-01-22 18:50:12,7298c9ea,https://www.espn.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,107,6,92.62.121.182,,,SUCCESS,
+2026-01-22 18:50:20,8d5f4ecf,https://tupaki.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,144,2,92.62.121.182,,,SUCCESS,
+2026-01-22 18:51:13,0baf32fb,https://www.maalaimalar.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,79,2,92.62.121.182,,,SUCCESS,
+2026-01-22 18:51:27,ae6f061c,https://www.bloomberg.com/india,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,75,1,92.62.121.182,,,SUCCESS,
+2026-01-22 18:51:40,e67dca76,https://holidify.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,102,1,92.62.121.182,,,SUCCESS,
+2026-01-22 18:51:47,4a8b0a57,https://www.businesstoday.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,86,5,92.62.121.182,,,SUCCESS,
+2026-01-22 18:52:02,0436b123,https://malayalam.filmibeat.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,49,3,92.62.121.132,,,SUCCESS,
+2026-01-22 18:52:04,765dbab7,https://indiabix.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,158,1,92.62.121.182,,,SUCCESS,
+2026-01-22 18:52:05,24d49012,https://www.hindi.foodviva.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,24,0,92.62.121.132,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hindi.foodviva.com/
+Call log:
+  - navigating to ""https://www.hindi.foodviva.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 18:52:13,56e017a7,https://taxguru.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,45,3,92.62.121.132,,,SUCCESS,
+2026-01-22 18:53:16,bd2c26b3,https://odishatv.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,73,6,92.62.121.132,,,SUCCESS,
+2026-01-22 18:53:42,14d1548b,https://hindi.moneycontrol.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,96,3,92.62.121.132,,,SUCCESS,
+2026-01-22 18:54:17,aeed204c,https://www.wired.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,133,2,92.62.121.132,,,SUCCESS,
+2026-01-22 18:54:18,0e7bcd7d,https://businessworld.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,62,4,92.62.121.132,,,SUCCESS,
+2026-01-22 18:54:27,25433d46,https://uttamhindu.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,133,2,92.62.121.132,,,SUCCESS,
+2026-01-22 18:55:03,cc0c9118,https://cookingvideos.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,44,4,92.62.121.132,,,SUCCESS,
+2026-01-22 18:55:04,1562bb46,https://www.assamiyakhabor.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,81,4,92.62.121.132,,,SUCCESS,
+2026-01-22 18:55:23,9eab8cf7,https://www.punjabitribuneonline.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,216,2,92.62.121.132,,,SUCCESS,
+2026-01-22 18:56:04,95003820,https://www.deshabhimani.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,96,2,92.62.121.132,,,SUCCESS,
+2026-01-22 18:56:12,31206db9,https://www.vegrecipesofindia.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,69,3,92.62.121.132,,,SUCCESS,
+2026-01-22 18:56:14,d00fbcfd,https://gadgetsandwearables.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,116,2,92.62.121.132,,,SUCCESS,
+2026-01-22 18:56:16,bf185106,https://nse-india.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,4,0,92.62.121.54,,,FAIL,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://nse-india.com/
+Call log:
+  - navigating to ""https://nse-india.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 18:56:53,5f905f1d,https://sportzwiki.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,109,2,92.62.121.132,,,SUCCESS,
+2026-01-22 18:57:02,2602f8ad,https://economictimes.indiatimes.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,8,1,92.62.121.54,,,FAIL,"Page.goto: net::ERR_ABORTED at https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass
+Call log:
+  - navigating to ""https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass"", waiting until ""domcontentloaded""
+"
+2026-01-22 18:57:11,54e4a160,https://www.v6velugu.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,55,6,92.62.121.54,,,SUCCESS,
+2026-01-22 18:57:56,afa2e81a,https://financialpost.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,101,4,92.62.121.54,,,SUCCESS,
+2026-01-22 18:57:57,d5f26270,https://medicalnewstoday.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,112,1,92.62.121.54,,,SUCCESS,
+2026-01-22 18:57:59,653100ff,https://telugu.telugubullet.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,155,1,92.62.121.132,,,SUCCESS,
+2026-01-22 18:58:23,b4c8176a,https://www.food.ndtv.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,24,0,92.62.121.54,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.food.ndtv.com/
+Call log:
+  - navigating to ""https://www.food.ndtv.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 18:58:23,13aadfc6,https://www.theprajatantra.org/prajatantra,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,81,2,92.62.121.54,,,SUCCESS,
+2026-01-22 18:58:54,86c516f7,https://sharechat.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,102,3,92.62.121.54,,,SUCCESS,
+2026-01-22 18:58:55,841ffbde,https://jansatta.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,59,3,92.62.121.54,,,SUCCESS,
+2026-01-22 18:59:37,5e217be1,https://malayalam.drivespark.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,100,2,92.62.121.54,,,SUCCESS,
+2026-01-22 19:00:14,df6c2496,https://travelerdoor.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,110,2,92.62.121.54,,,SUCCESS,
+2026-01-22 19:00:27,9315ea38,https://nseguide.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,50,3,92.62.121.54,,,SUCCESS,
+2026-01-22 19:00:39,60956bbc,https://jvpnews.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,104,5,92.62.121.54,,,SUCCESS,
+2026-01-22 19:00:47,5fba9a61,https://medhelp.org,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,144,2,92.62.121.54,,,SUCCESS,
+2026-01-22 19:00:54,90ad9f26,https://dailynewskerala.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,26,0,92.62.121.54,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://dailynewskerala.in/
+Call log:
+  - navigating to ""https://dailynewskerala.in/"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:01:24,8373d28b,https://health.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,149,4,92.62.121.54,,,SUCCESS,
+2026-01-22 19:02:06,c2e8c483,https://healthcentral.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,78,4,92.62.121.228,,,SUCCESS,
+2026-01-22 19:02:21,1a09c43b,https://skyscanner.co.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,126,0,92.62.121.54,,,SUCCESS,
+2026-01-22 19:02:27,6beae8f8,https://www.goodreturns.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,93,1,92.62.121.228,,,SUCCESS,
+2026-01-22 19:02:29,b41b2276,https://nadunudi.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,109,3,92.62.121.228,,,SUCCESS,
+2026-01-22 19:03:00,5ff4d6d2,https://eenadu.net,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,32,0,92.62.121.228,,,FAIL,"Page.goto: net::ERR_TIMED_OUT at https://eenadu.net/
+Call log:
+  - navigating to ""https://eenadu.net/"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:03:12,1d8d4785,https://bollywoodshaadis.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,108,3,92.62.121.228,,,SUCCESS,
+2026-01-22 19:03:19,454a752c,https://onlinemalayali.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,58,3,92.62.121.228,,,SUCCESS,
+2026-01-22 19:03:25,76b2d02a,https://www.marca.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,78,4,92.62.121.228,,,SUCCESS,
+2026-01-22 19:03:54,99171865,https://bengali.news18.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,84,4,92.62.121.228,,,SUCCESS,
+2026-01-22 19:04:17,846b026e,https://www.ap7am.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,77,4,92.62.121.228,,,SUCCESS,
+2026-01-22 19:04:29,3f2330a3,https://www.outlookbusiness.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,69,5,92.62.121.228,,,SUCCESS,
+2026-01-22 19:05:06,35e80f44,https://gadgetsarena.org,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,72,2,92.62.121.228,,,SUCCESS,
+2026-01-22 19:05:22,a0096809,https://yummytummyaarthi.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,129,1,92.62.121.228,,,SUCCESS,
+2026-01-22 19:05:54,ecd50fb0,https://kannada.filmibeat.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,96,1,92.62.121.228,,,SUCCESS,
+2026-01-22 19:06:02,288dd790,https://telugustop.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,157,1,92.62.121.228,,,SUCCESS,
+2026-01-22 19:06:42,c58ab896,https://mysmartprice.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,132,2,92.62.121.228,,,SUCCESS,
+2026-01-22 19:06:43,6d0c1da2,https://sambad.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,40,4,92.62.121.86,,,SUCCESS,
+2026-01-22 19:06:44,eeb5a14b,https://gadgetstripe.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,98,2,92.62.121.228,,,SUCCESS,
+2026-01-22 19:07:28,53473be4,https://railyatri.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,125,1,92.62.121.228,,,SUCCESS,
+2026-01-22 19:07:32,fa13606d,https://beebom.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,97,3,92.62.121.86,,,SUCCESS,
+2026-01-22 19:08:59,7906838e,https://myhealthtips.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,137,4,92.62.121.86,,,SUCCESS,
+2026-01-22 19:09:02,55e95c57,https://top10homeremedies.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,138,1,92.62.121.86,,,SUCCESS,
+2026-01-22 19:09:04,901ffb3a,https://wellnesstodaystudio.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,141,3,92.62.121.86,,,SUCCESS,
+2026-01-22 19:09:20,fcde936d,https://navbharattimes.indiatimes.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,108,4,92.62.121.84,,,SUCCESS,
+2026-01-22 19:09:37,1f36129a,https://telugu.filmibeat.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,129,1,92.62.121.84,,,SUCCESS,
+2026-01-22 19:10:19,6ebc7cf6,https://sammobile.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,58,2,92.62.121.84,,,SUCCESS,
+2026-01-22 19:10:23,1a1454dc,https://jagbani.punjabkesari.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,79,4,92.62.121.84,,,SUCCESS,
+2026-01-22 19:10:35,b07ecb09,https://www.thanthitv.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,92,4,92.62.121.84,,,SUCCESS,
+2026-01-22 19:10:59,ca946eef,https://tdstaxindia.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,24,0,92.62.121.116,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://tdstaxindia.com/
+Call log:
+  - navigating to ""https://tdstaxindia.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:11:00,3bcec28b,https://bengali.abplive.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,82,1,92.62.121.84,,,SUCCESS,
+2026-01-22 19:11:10,8327479a,https://livestrong.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,131,0,92.62.121.84,,,SUCCESS,
+2026-01-22 19:11:46,3129ab3d,https://deccanherald.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,46,3,92.62.121.116,,,SUCCESS,
+2026-01-22 19:12:02,3d4c5d7b,https://businesstoday.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,98,1,92.62.121.84,,,SUCCESS,
+2026-01-22 19:12:21,4aafd5f1,https://indiatvnews.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,82,2,92.62.121.116,,,SUCCESS,
+2026-01-22 19:12:27,c99b94ea,https://m.gsmarena.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,40,3,92.62.121.116,,,SUCCESS,
+2026-01-22 19:12:31,ef63549b,https://pcmag.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,132,4,92.62.121.84,,,SUCCESS,
+2026-01-22 19:13:05,3609f26c,https://fitfoodiefinds.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,43,0,92.62.121.116,,,FAIL,"Page.goto: Navigation to ""https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass"" is interrupted by another navigation to ""https://fitfoodiefinds.com/subscribe/""
+Call log:
+  - navigating to ""https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:13:41,04a97c5c,https://www.dharitri.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,150,6,92.62.121.116,,,SUCCESS,
+2026-01-22 19:14:21,63f6975c,https://sheknows.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,113,1,92.62.121.116,,,SUCCESS,
+2026-01-22 19:14:26,ab5b9296,https://www.dailypunjabtimes.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,143,3,92.62.121.116,,,SUCCESS,
+2026-01-22 19:14:43,0d678e1f,https://news7tamil.live,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,131,4,92.62.121.118,,,SUCCESS,
+2026-01-22 19:14:52,f2f2a64a,https://exchange-rates.org,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,106,3,92.62.121.118,,,SUCCESS,
+2026-01-22 19:15:14,3516d13f,https://www.eonline.com/,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,53,5,92.62.121.118,,,SUCCESS,
+2026-01-22 19:15:16,2ad01b85,https://www.tv5news.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,95,2,92.62.121.118,,,SUCCESS,
+2026-01-22 19:16:04,54279b81,https://www.businessinsider.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,97,1,92.62.121.118,,,SUCCESS,
+2026-01-22 19:16:28,00a21024,https://bbc.com/hindi,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,105,2,92.62.121.118,,,SUCCESS,
+2026-01-22 19:16:36,b854e0e8,https://firstcry.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,104,3,92.62.121.118,,,SUCCESS,
+2026-01-22 19:16:52,ffb98fd3,https://indianrail.gov.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,97,1,92.62.121.118,,,SUCCESS,
+2026-01-22 19:16:52,d7739aab,https://vartamanjari.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,24,0,92.62.121.68,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://vartamanjari.in/
+Call log:
+  - navigating to ""https://vartamanjari.in/"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:17:02,4551256f,https://gsmarena.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,106,4,92.62.121.118,,,SUCCESS,
+2026-01-22 19:17:36,acebe148,https://www.halodoc.com/,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,44,5,92.62.121.68,,,SUCCESS,
+2026-01-22 19:18:16,5ccc7676,https://maharashtratimes.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,83,3,92.62.121.68,,,SUCCESS,
+2026-01-22 19:18:18,38418481,https://dheivegam.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,134,0,92.62.121.68,,,SUCCESS,
+2026-01-22 19:18:20,0bf3838f,https://livesoccertv.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,103,0,92.62.121.68,,,SUCCESS,
+2026-01-22 19:19:34,6f9e17a4,https://tinybuddha.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,74,4,92.62.121.68,,,SUCCESS,
+2026-01-22 19:19:43,ca288893,https://bhaskar.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,127,2,92.62.121.68,,,SUCCESS,
+2026-01-22 19:19:44,1ae97ad0,https://business-standard.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,161,2,92.62.121.68,,,SUCCESS,
+2026-01-22 19:20:10,1ea92302,https://www.gqindia.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,111,2,92.62.121.68,,,SUCCESS,
+2026-01-22 19:20:25,7fe5d883,https://livemint.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,50,7,92.62.121.68,,,SUCCESS,
+2026-01-22 19:20:26,6fc64b8c,https://hilaptop.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,129,0,92.62.121.68,,,SUCCESS,
+2026-01-22 19:20:26,85485601,https://drugs.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,42,2,92.62.121.68,,,SUCCESS,
+2026-01-22 19:21:28,6d74cb6c,https://www.vogue.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,77,2,92.62.121.70,,,SUCCESS,
+2026-01-22 19:21:30,15074c96,https://timesnownews.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,63,3,92.62.121.70,,,SUCCESS,
+2026-01-22 19:21:35,28046976,https://hubpages.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,7,0,92.62.121.102,,,FAIL,"Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to ""https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:21:35,22116980,https://fortune.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,5,0,92.62.121.102,,,FAIL,"Page.goto: Target page, context or browser has been closed"
+2026-01-22 19:21:39,27db5374,https://thewire.in,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,desktop,74,0,92.62.121.70,,,FAIL,Mouse.wheel: Connection closed while reading from the driver
+2026-01-22 19:21:48,c7e0fa21,https://espncricinfo.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,82,3,92.62.121.70,,,FAIL,BrowserContext.close: Connection closed while reading from the driver
+2026-01-22 19:21:48,fb6eb372,https://www.loksatta.com,https://www.indiaenergyweek.com/visit/visitor-registration?utm_source=programmatic_vispro&utm_medium=indiacity&utm_campaign=integralmedia&utm_content=Register&utm_term=VisitorPass,mobile,123,3,92.62.121.68,,,FAIL,BrowserContext.close: Connection closed while reading from the driver
+2026-01-22 19:23:14,3b99b8bf,https://vijaykarnataka.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,56,3,92.62.121.102,,,SUCCESS,
+2026-01-22 19:23:25,ba964b8c,https://9gag.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,66,2,92.62.121.102,,,SUCCESS,
+2026-01-22 19:23:29,a1c4dd64,https://www.prameyanews.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,71,3,92.62.121.102,,,SUCCESS,
+2026-01-22 19:24:10,1f131e72,https://www.keralakaumudi.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,112,2,92.62.121.102,,,SUCCESS,
+2026-01-22 19:24:11,4fb2758b,https://www.loksatta.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,112,2,92.62.121.102,,,SUCCESS,
+2026-01-22 19:24:25,d50cce62,https://www.punjabitribuneonline.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,60,2,92.62.121.102,,,SUCCESS,
+2026-01-22 19:24:39,94789034,https://sandesh.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,85,3,92.62.121.102,,,SUCCESS,
+2026-01-22 19:24:44,d725b3ab,https://nse-india.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,4,0,92.62.121.102,,,FAIL,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://nse-india.com/
+Call log:
+  - navigating to ""https://nse-india.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:24:47,243529c9,https://indiatv.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,77,2,92.62.121.102,,,SUCCESS,
+2026-01-22 19:25:32,6f1c7a37,https://odia.news18.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,81,3,92.62.121.102,,,SUCCESS,
+2026-01-22 19:25:35,89a878e9,https://hilaptop.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,70,3,92.62.121.102,,,SUCCESS,
+2026-01-22 19:25:46,d05c8242,https://www.forbesindia.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,58,3,92.62.121.102,,,SUCCESS,
+2026-01-22 19:25:46,d101a7c0,https://techradar.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,95,2,92.62.121.102,,,SUCCESS,
+2026-01-22 19:26:05,acf23b8e,https://indiatimes.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,33,1,92.62.121.102,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:26:14,f214d192,https://healthtechinsider.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,38,0,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:26:29,85f4a7b8,https://dnaindia.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,105,3,92.62.121.102,,,SUCCESS,
+2026-01-22 19:26:47,6f6773dd,https://www.vegrecipesofindia.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,60,0,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:26:51,9c178dea,https://onlymyhealth.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,36,1,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:26:51,2e19803f,https://auditiondate.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,65,1,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:26:53,427a18df,https://leanitup.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,24,0,92.62.121.198,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://leanitup.com/
+Call log:
+  - navigating to ""https://leanitup.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:27:08,683fb1dc,https://ndtv.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,62,0,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:27:19,f4784563,https://elle.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,32,1,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:27:24,edbec52f,https://makemebabies.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,33,1,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:27:33,a70ca540,https://foodnetwork.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,39,1,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:27:51,df6f1228,https://www.ntvtelugu.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,32,1,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:27:54,44328416,https://www.espn.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,62,1,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:28:00,dba94109,https://epaper.pragativadi.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,35,1,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:28:04,15e38054,https://telugulives.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,3,0,92.62.121.198,,,FAIL,"Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://telugulives.com/
+Call log:
+  - navigating to ""https://telugulives.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:28:14,0357c991,https://www.aajkaal.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,65,1,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:28:27,5802da1d,https://91mobiles.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,32,1,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:28:30,d2771f30,https://muscleandfitness.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,38,1,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:28:35,463f62af,https://techradar.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,62,0,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:28:48,3eea76f6,https://cnn.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,34,1,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:29:04,9be8f10a,https://hrbreakingnews.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,34,1,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:29:05,03a69239,https://teluguonlinenews.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,61,0,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:29:18,49726a8d,https://divyahimachal.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,42,1,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:29:21,712c0625,https://tenders.indiamart.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,32,1,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:29:31,afb23efc,https://laptopmag.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,64,1,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:29:37,1b3aaf9a,https://wikibio.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,32,1,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:29:37,9964c344,https://navbharattimes.indiatimes.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,31,1,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:29:52,95d5e76b,https://patrika.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,31,1,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:30:02,76c0b3cd,https://erail.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,31,1,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:30:02,7cc0f76a,https://www.tamil.samayam.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,24,0,92.62.121.198,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tamil.samayam.com/
+Call log:
+  - navigating to ""https://www.tamil.samayam.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:30:17,f52201d0,https://laptop251.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,59,0,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:30:34,c9fe8ebf,https://www.sathyamonline.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,32,1,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:30:34,f7de9307,https://jagran.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,32,1,92.62.121.198,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:31:33,61cc34ff,https://dheivegam.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,101,2,92.62.121.198,,,SUCCESS,
+2026-01-22 19:31:36,40882b0c,https://travelandleisure.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,118,2,92.62.121.198,,,SUCCESS,
+2026-01-22 19:31:52,18469a20,https://moneycontrol.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,94,2,92.62.121.198,,,SUCCESS,
+2026-01-22 19:32:08,d7027ab7,https://www.phonearena.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,93,3,92.62.121.36,,,SUCCESS,
+2026-01-22 19:32:29,e52fc74e,https://jvpnews.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,114,2,92.62.121.36,,,SUCCESS,
+2026-01-22 19:32:45,5900847f,https://economictimes.indiatimes.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,69,3,92.62.121.36,,,SUCCESS,
+2026-01-22 19:33:00,1a00665c,https://udayavani.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,86,2,92.62.121.36,,,SUCCESS,
+2026-01-22 19:33:32,660341fd,https://prajavani.net,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,63,3,92.62.121.36,,,SUCCESS,
+2026-01-22 19:33:40,84c2647f,https://www.dharitri.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,107,2,92.62.121.36,,,SUCCESS,
+2026-01-22 19:34:16,89d75a9e,https://tv9bangla.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,76,2,92.62.121.36,,,SUCCESS,
+2026-01-22 19:34:20,7870a1d8,https://tamizhakam.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,131,2,92.62.121.36,,,SUCCESS,
+2026-01-22 19:34:39,a0965d9a,https://sheknows.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,113,2,92.62.121.36,,,SUCCESS,
+2026-01-22 19:34:44,dc356d56,https://saamtv.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,64,3,92.62.121.36,,,SUCCESS,
+2026-01-22 19:35:18,4dd26b28,https://engadget.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,33,0,92.62.121.36,,,FAIL,"Page.goto: net::ERR_TIMED_OUT at https://engadget.com/
+Call log:
+  - navigating to ""https://engadget.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:35:45,ca907918,https://www.navatelangana.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,133,2,92.62.121.36,,,SUCCESS,
+2026-01-22 19:35:59,65a5bfce,https://www.ntnews.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,80,3,92.62.121.36,,,SUCCESS,
+2026-01-22 19:36:23,2f4d39ae,https://gadgetbridge.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,122,0,92.62.121.36,,,SUCCESS,
+2026-01-22 19:36:38,6838461b,https://beebom.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,79,1,92.62.121.36,,,SUCCESS,
+2026-01-22 19:36:46,6cfe583d,https://www.gqindia.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,149,1,92.62.121.36,,,SUCCESS,
+2026-01-22 19:37:00,0fcced8f,https://hubpages.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,75,2,92.62.121.164,,,SUCCESS,
+2026-01-22 19:37:34,4ee91752,https://ndtv.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,71,3,92.62.121.164,,,SUCCESS,
+2026-01-22 19:37:42,a86b15c0,https://tv9marathi.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,103,3,92.62.121.164,,,SUCCESS,
+2026-01-22 19:38:11,4bc4769d,https://malayalam.filmibeat.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,85,3,92.62.121.164,,,SUCCESS,
+2026-01-22 19:38:13,96fe0560,https://railyatri.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,95,3,92.62.121.164,,,SUCCESS,
+2026-01-22 19:38:29,d1f81e88,https://gujaratsamachar.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,89,2,92.62.121.164,,,SUCCESS,
+2026-01-22 19:38:37,be2116c3,https://dailynewskerala.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,25,0,92.62.121.164,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://dailynewskerala.in/
+Call log:
+  - navigating to ""https://dailynewskerala.in/"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:38:58,f65a7b58,https://telugu.filmibeat.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,75,3,92.62.121.164,,,SUCCESS,
+2026-01-22 19:39:08,35c91c61,https://aajtak.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,93,2,92.62.121.164,,,SUCCESS,
+2026-01-22 19:39:52,9e52e69e,https://hindi.moneycontrol.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,98,3,92.62.121.164,,,SUCCESS,
+2026-01-22 19:40:03,870ceb4d,https://sammobile.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,85,2,92.62.121.164,,,SUCCESS,
+2026-01-22 19:40:05,21cae5cf,https://kanaknews.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,66,3,92.62.121.164,,,SUCCESS,
+2026-01-22 19:40:14,ca8cd19e,https://www.wsj.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,65,2,92.62.121.164,,,SUCCESS,
+2026-01-22 19:40:28,711fc0e1,https://medhelp.org,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,118,2,92.62.121.164,,,SUCCESS,
+2026-01-22 19:41:42,4d58e006,https://www.prajasakti.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,97,1,92.62.121.164,,,SUCCESS,
+2026-01-22 19:41:43,53789933,https://naidunia.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,110,2,92.62.121.164,,,SUCCESS,
+2026-01-22 19:41:49,a2cb0c82,https://teluguadda.co.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,106,1,92.62.121.164,,,SUCCESS,
+2026-01-22 19:42:47,a67a0bb7,https://www.outlookbusiness.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,139,2,92.62.121.164,,,SUCCESS,
+2026-01-22 19:42:47,739e9070,https://skyscanner.co.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,58,2,92.62.121.214,,,SUCCESS,
+2026-01-22 19:42:47,8300885b,https://niyomiyabarta.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,153,2,92.62.121.164,,,SUCCESS,
+2026-01-22 19:43:41,0ac83727,https://www.bloomberg.com/india,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,117,3,92.62.121.214,,,SUCCESS,
+2026-01-22 19:44:02,a4e8bbf9,https://scroll.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,74,3,92.62.121.214,,,SUCCESS,
+2026-01-22 19:44:03,d55c7c4c,https://telugu.telugubullet.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,140,0,92.62.121.214,,,SUCCESS,
+2026-01-22 19:44:06,7cea13f7,https://thehindubusinessline.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,78,3,92.62.121.214,,,SUCCESS,
+2026-01-22 19:44:22,4bbd9518,https://bengali.abplive.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,94,2,92.62.121.214,,,SUCCESS,
+2026-01-22 19:44:55,093d67b8,https://enewz.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,74,3,92.62.121.212,,,SUCCESS,
+2026-01-22 19:45:17,28a6196f,https://businesstoday.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,71,3,92.62.121.212,,,SUCCESS,
+2026-01-22 19:45:28,aa05e8f0,https://babycenter.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,84,3,92.62.121.212,,,SUCCESS,
+2026-01-22 19:45:31,2172e25a,https://tamil.asianetnews.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,88,2,92.62.121.212,,,SUCCESS,
+2026-01-22 19:46:18,953057d0,https://thehindubusinessline.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,82,3,92.62.121.212,,,SUCCESS,
+2026-01-22 19:46:24,44d47410,https://deccanherald.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,67,3,92.62.121.214,,,SUCCESS,
+2026-01-22 19:46:24,d77d6c6e,https://dainiknavajyoti.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,122,2,92.62.121.212,,,SUCCESS,
+2026-01-22 19:47:03,23095dcb,https://cinemapettai.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,92,2,92.62.121.214,,,SUCCESS,
+2026-01-22 19:47:20,ea156a82,https://navabharat.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,55,2,92.62.121.182,,,SUCCESS,
+2026-01-22 19:47:43,32c91ad1,https://businessinsider.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,78,3,92.62.121.182,,,SUCCESS,
+2026-01-22 19:47:50,dd53633e,https://www.visalaandhra.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,142,2,92.62.121.214,,,SUCCESS,
+2026-01-22 19:48:29,db20b8e6,https://sharechat.com/,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,85,2,92.62.121.182,,,SUCCESS,
+2026-01-22 19:48:32,c32b2d0e,https://harpersbazaar.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,133,2,92.62.121.182,,,SUCCESS,
+2026-01-22 19:48:33,a36642ce,https://m.economictimes.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,73,1,92.62.121.182,,,SUCCESS,
+2026-01-22 19:48:57,ea6e9448,https://wynk.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,74,4,92.62.121.182,,,SUCCESS,
+2026-01-22 19:49:01,0ce29224,https://odia.news18.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,70,3,92.62.121.182,,,SUCCESS,
+2026-01-22 19:49:22,18a46b14,https://www.malayalam.samayam.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,24,0,92.62.121.182,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.malayalam.samayam.com/
+Call log:
+  - navigating to ""https://www.malayalam.samayam.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:49:46,702fea8e,https://m.gsmarena.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,76,2,92.62.121.182,,,SUCCESS,
+2026-01-22 19:50:04,6484577a,https://mysmartprice.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,63,3,92.62.121.182,,,SUCCESS,
+2026-01-22 19:50:07,45a468c5,https://gadgetsnow.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,94,2,92.62.121.182,,,SUCCESS,
+2026-01-22 19:50:10,023c1986,https://etaxindia.org,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,24,0,92.62.121.182,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://etaxindia.org/
+Call log:
+  - navigating to ""https://etaxindia.org/"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:50:28,f4648903,https://gadgetsandwearables.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,116,2,92.62.121.182,,,SUCCESS,
+2026-01-22 19:50:36,cc45df48,https://www.hindi.foodviva.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,26,0,92.62.121.182,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hindi.foodviva.com/
+Call log:
+  - navigating to ""https://www.hindi.foodviva.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:50:55,2030bab8,https://indianexpress.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,92,2,92.62.121.182,,,SUCCESS,
+2026-01-22 19:51:02,4d6a8f68,https://gadgets360.com-Marathi,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,25,0,92.62.121.132,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://gadgets360.com-marathi/
+Call log:
+  - navigating to ""https://gadgets360.com-marathi/"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:51:10,bb06ce67,https://patrika.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,63,4,92.62.121.182,,,SUCCESS,
+2026-01-22 19:51:32,a50919df,https://indiatvnews.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,87,3,92.62.121.182,,,SUCCESS,
+2026-01-22 19:51:55,280e0692,https://africa.businessinsider.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,86,1,92.62.121.182,,,SUCCESS,
+2026-01-22 19:52:02,7c52234f,https://livemint.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,67,2,92.62.121.132,,,SUCCESS,
+2026-01-22 19:52:27,4a87a62e,https://navgujaratsamay.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,84,2,92.62.121.132,,,SUCCESS,
+2026-01-22 19:52:30,db20875f,https://kannadaprabha.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,79,3,92.62.121.132,,,SUCCESS,
+2026-01-22 19:52:32,cfa815dd,https://nseguide.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,60,3,92.62.121.132,,,SUCCESS,
+2026-01-22 19:53:14,b533dd03,https://puthiyathalaimurai.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,71,3,92.62.121.132,,,SUCCESS,
+2026-01-22 19:53:20,a07c1116,https://www.theprajatantra.org/prajatantra,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,85,3,92.62.121.132,,,SUCCESS,
+2026-01-22 19:53:48,6d2b2ce4,https://gadgets360.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,81,2,92.62.121.132,,,SUCCESS,
+2026-01-22 19:54:04,73fe000e,https://taxguru.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,91,3,92.62.121.132,,,SUCCESS,
+2026-01-22 19:54:18,9c9b3ab8,https://malayalam.boldsky.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,108,2,92.62.121.132,,,SUCCESS,
+2026-01-22 19:54:47,308f436a,https://thewire.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,86,3,92.62.121.132,,,SUCCESS,
+2026-01-22 19:54:47,01808ffa,https://www.samayaepaper.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,92,2,92.62.121.132,,,SUCCESS,
+2026-01-22 19:55:00,d9b304c4,https://giznext.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,72,3,92.62.121.132,,,SUCCESS,
+2026-01-22 19:55:16,ad901383,https://fertilityfactor.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,72,3,92.62.121.132,,,SUCCESS,
+2026-01-22 19:55:50,9bee8186,https://www.dinalipi.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,91,2,92.62.121.132,,,SUCCESS,
+2026-01-22 19:55:55,72383357,https://www.eonline.com/,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,68,3,92.62.121.132,,,SUCCESS,
+2026-01-22 19:56:11,aa79c2b0,https://cookingvideos.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,71,3,92.62.121.132,,,SUCCESS,
+2026-01-22 19:56:15,318c34f2,https://m.fertilityfactor.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,24,0,92.62.121.54,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://m.fertilityfactor.com/
+Call log:
+  - navigating to ""https://m.fertilityfactor.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 19:56:23,5b7bce2c,https://goodreturns.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,66,3,92.62.121.132,,,SUCCESS,
+2026-01-22 19:57:05,95099627,https://news18.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,69,3,92.62.121.54,,,SUCCESS,
+2026-01-22 19:57:10,15ed34c8,https://nwnews24.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,55,2,92.62.121.54,,,SUCCESS,
+2026-01-22 19:57:56,07f0b561,https://babycentre.co.uk,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,92,3,92.62.121.54,,,SUCCESS,
+2026-01-22 19:58:17,d1de6342,https://nadunudi.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,125,2,92.62.121.54,,,SUCCESS,
+2026-01-22 19:59:07,3dd3340b,https://www.businessworld.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,122,2,92.62.121.54,,,SUCCESS,
+2026-01-22 19:59:09,6c6f9df5,https://bbc.com/hindi,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,73,3,92.62.121.54,,,SUCCESS,
+2026-01-22 19:59:11,775f0359,https://gujaratimidday.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,121,2,92.62.121.54,,,SUCCESS,
+2026-01-22 19:59:19,c91e705b,https://www.v6velugu.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,62,3,92.62.121.54,,,SUCCESS,
+2026-01-22 20:00:13,9b627371,https://khanakhazana.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,63,3,92.62.121.54,,,SUCCESS,
+2026-01-22 20:00:39,87db9c74,https://holidify.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,88,2,92.62.121.54,,,SUCCESS,
+2026-01-22 20:01:03,01460208,https://harpersbazaar.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,115,2,92.62.121.54,,,SUCCESS,
+2026-01-22 20:01:18,78e73889,https://nutritionstripped.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,119,2,92.62.121.54,,,SUCCESS,
+2026-01-22 20:01:43,7f85c3a5,https://www.cookingkhajana.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,90,3,92.62.121.54,,,SUCCESS,
+2026-01-22 20:02:09,5b267c7e,https://keralafast.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,89,2,92.62.121.228,,,SUCCESS,
+2026-01-22 20:02:19,10f3cd2d,https://telugustop.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,61,3,92.62.121.228,,,SUCCESS,
+2026-01-22 20:03:04,77cffdaa,https://www.espn.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,80,3,92.62.121.228,,,SUCCESS,
+2026-01-22 20:03:08,d7c67257,https://www.saamana.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,124,2,92.62.121.228,,,SUCCESS,
+2026-01-22 20:03:16,6cbe0561,https://punjabkesari.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,67,1,92.62.121.228,,,SUCCESS,
+2026-01-22 20:03:24,81e35ced,https://malayalam.drivespark.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,64,3,92.62.121.228,,,SUCCESS,
+2026-01-22 20:04:08,30cadb1b,https://www.goodrx.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,51,2,92.62.121.228,,,SUCCESS,
+2026-01-22 20:04:25,bba5a67a,https://bengali.oneindia.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,60,3,92.62.121.228,,,SUCCESS,
+2026-01-22 20:04:38,ecde0e88,https://whattoexpect.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,94,2,92.62.121.228,,,SUCCESS,
+2026-01-22 20:04:47,cf849e9a,https://www.indiewire.com/,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,99,2,92.62.121.228,,,SUCCESS,
+2026-01-22 20:04:50,33579096,https://investmentsandmoney.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,25,0,92.62.121.228,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://investmentsandmoney.com/
+Call log:
+  - navigating to ""https://investmentsandmoney.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:05:06,f1bc0012,https://www.divyabhaskar.co.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,58,3,92.62.121.228,,,SUCCESS,
+2026-01-22 20:05:54,b08538a7,https://deccanherald.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,47,0,92.62.121.228,,,FAIL,"Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://deccanherald.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:05:57,2b78c487,https://cinekerala.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,3,0,92.62.121.86,,,FAIL,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://cinekerala.in/
+Call log:
+  - navigating to ""https://cinekerala.in/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:06:26,c3a4c242,https://abplive.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,108,2,92.62.121.228,,,SUCCESS,
+2026-01-22 20:06:29,ad294154,https://healthmeup.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,2,0,92.62.121.86,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://healthmeup.com/
+Call log:
+  - navigating to ""https://healthmeup.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:06:45,e6f58369,https://pregnantchicken.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,114,2,92.62.121.228,,,SUCCESS,
+2026-01-22 20:06:51,6685df4d,https://www.thanthitv.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,123,2,92.62.121.228,,,SUCCESS,
+2026-01-22 20:07:25,d03aac54,https://techcrunch.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,88,2,92.62.121.86,,,SUCCESS,
+2026-01-22 20:08:14,c8a11a77,https://www.vogue.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,83,2,92.62.121.86,,,SUCCESS,
+2026-01-22 20:08:28,74dea73e,https://bollywoodlife.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,62,3,92.62.121.86,,,SUCCESS,
+2026-01-22 20:08:34,4a5770eb,https://manoramanews.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,125,2,92.62.121.86,,,SUCCESS,
+2026-01-22 20:08:51,97f9ac46,https://majhinaukri.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,126,2,92.62.121.86,,,SUCCESS,
+2026-01-22 20:09:29,ac24252d,https://www.asomiyapratidin.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,60,3,92.62.121.86,,,SUCCESS,
+2026-01-22 20:09:43,885c06ab,https://cinemapranthan.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,89,2,92.62.121.86,,,SUCCESS,
+2026-01-22 20:09:48,de58ea7a,https://filmibeat.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,57,3,92.62.121.86,,,SUCCESS,
+2026-01-22 20:09:57,1b283485,https://financeyogi.net,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,83,3,92.62.121.86,,,SUCCESS,
+2026-01-22 20:10:40,aa550a00,https://livesoccertv.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,56,3,92.62.121.86,,,SUCCESS,
+2026-01-22 20:10:57,3116e3bd,https://dinamani.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,87,2,92.62.121.86,,,SUCCESS,
+2026-01-22 20:11:16,e835bfc4,https://www.sonima.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,88,2,92.62.121.86,,,SUCCESS,
+2026-01-22 20:11:45,c23a7f5a,https://money.rediff.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,65,2,92.62.121.116,,,SUCCESS,
+2026-01-22 20:12:09,2581be56,https://m.webmd.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,132,2,92.62.121.86,,,SUCCESS,
+2026-01-22 20:12:21,1a896d53,https://www.drjyotisingh.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,64,3,92.62.121.116,,,SUCCESS,
+2026-01-22 20:12:26,5989f900,https://www.nytimes.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,88,2,92.62.121.116,,,SUCCESS,
+2026-01-22 20:13:25,ffb3c725,https://www.marca.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,75,2,92.62.121.116,,,SUCCESS,
+2026-01-22 20:13:27,dfb72541,https://jagbani.punjabkesari.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,65,3,92.62.121.116,,,SUCCESS,
+2026-01-22 20:13:31,fd4c876e,https://mediafire.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,105,1,92.62.121.116,,,SUCCESS,
+2026-01-22 20:13:55,4e4212a4,https://gsmarena.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,89,2,92.62.121.118,,,SUCCESS,
+2026-01-22 20:14:42,41ea3ebc,https://business-standard.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,77,4,92.62.121.118,,,SUCCESS,
+2026-01-22 20:14:50,846d252f,https://firstcry.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,78,3,92.62.121.118,,,SUCCESS,
+2026-01-22 20:14:56,41bcc108,https://vijayavani.net,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,60,2,92.62.121.118,,,SUCCESS,
+2026-01-22 20:15:02,46e9da2b,https://mayoclinic.org,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,95,2,92.62.121.118,,,SUCCESS,
+2026-01-22 20:15:56,742b2259,https://www.ciol.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,60,3,92.62.121.116,,,SUCCESS,
+2026-01-22 20:15:56,1cd1845c,https://myhealthtips.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,73,3,92.62.121.116,,,SUCCESS,
+2026-01-22 20:15:58,6d004c4d,https://thesamaja.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,55,3,92.62.121.116,,,SUCCESS,
+2026-01-22 20:16:20,9e9b440e,https://sportzwiki.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,90,2,92.62.121.116,,,SUCCESS,
+2026-01-22 20:16:54,2b7d95e9,https://odishatv.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,56,4,92.62.121.70,,,SUCCESS,
+2026-01-22 20:17:18,dafc0394,https://inmobi.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,81,3,92.62.121.70,,,SUCCESS,
+2026-01-22 20:17:19,510b211f,https://medicalnewstoday.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,59,3,92.62.121.70,,,SUCCESS,
+2026-01-22 20:17:31,d5ea6fbb,https://webmd.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,94,2,92.62.121.70,,,SUCCESS,
+2026-01-22 20:18:22,955e1084,https://tamil.goodreturns.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,64,3,92.62.121.70,,,SUCCESS,
+2026-01-22 20:18:27,32103b60,https://www.halodoc.com/,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,67,3,92.62.121.70,,,SUCCESS,
+2026-01-22 20:18:29,3e4699e7,https://livestrong.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,95,2,92.62.121.70,,,SUCCESS,
+2026-01-22 20:18:49,bdcead38,https://financialexpress.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,78,2,92.62.121.70,,,SUCCESS,
+2026-01-22 20:19:25,d67583cc,https://india.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,63,3,92.62.121.70,,,SUCCESS,
+2026-01-22 20:19:39,84a967e8,https://irctc.co.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,70,3,92.62.121.70,,,SUCCESS,
+2026-01-22 20:20:02,824bbb54,https://androidauthority.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,95,3,92.62.121.70,,,SUCCESS,
+2026-01-22 20:20:08,1661fe72,https://www.sentinelassam.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,78,3,92.62.121.70,,,SUCCESS,
+2026-01-22 20:20:27,d59240a3,https://keralafox.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,24,0,92.62.121.70,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://keralafox.com/
+Call log:
+  - navigating to ""https://keralafox.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:20:36,071c6479,https://www.thehindubusinessline.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,9,1,92.62.121.70,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:21:05,d0434942,https://aajkaaldaily.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,100,2,92.62.121.70,,,SUCCESS,
+2026-01-22 20:21:41,1267f7ad,https://www.psychologytoday.com/intl,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,92,2,92.62.121.70,,,SUCCESS,
+2026-01-22 20:21:48,1a7ff5e0,https://bseindia.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,128,2,92.62.121.70,,,SUCCESS,
+2026-01-22 20:22:20,4bcf7b64,https://bollywoodshaadis.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,74,3,92.62.121.102,,,SUCCESS,
+2026-01-22 20:22:40,6b7f9e1b,https://cookingvideos.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,123,2,92.62.121.102,,,SUCCESS,
+2026-01-22 20:22:56,0ecdb2a6,https://economictimes.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,67,2,92.62.121.102,,,SUCCESS,
+2026-01-22 20:23:12,67f29cfc,https://dailythanthi.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,91,2,92.62.121.102,,,SUCCESS,
+2026-01-22 20:23:58,b2cd5a41,https://assamtribune.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,98,1,92.62.121.102,,,SUCCESS,
+2026-01-22 20:24:01,fd784000,https://prabhasakshi.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,81,3,92.62.121.102,,,SUCCESS,
+2026-01-22 20:24:30,4548e830,https://www.goal.com/en-in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,77,2,92.62.121.102,,,SUCCESS,
+2026-01-22 20:24:58,eae0ca27,https://www.dailypunjabtimes.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,121,1,92.62.121.102,,,SUCCESS,
+2026-01-22 20:26:05,a025448a,https://www.maalaimalar.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,95,0,92.62.121.102,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:26:32,95d1b51f,https://caclubindia.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,27,1,92.62.121.196,,,FAIL,"Page.goto: net::ERR_CONNECTION_RESET at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:26:42,3a3abca4,https://odiapua.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,163,2,92.62.121.102,,,SUCCESS,
+2026-01-22 20:26:44,3045a1ab,https://timesnownews.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,105,4,92.62.121.102,,,SUCCESS,
+2026-01-22 20:26:53,141c9c6e,https://mommypotamus.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,172,2,92.62.121.102,,,SUCCESS,
+2026-01-22 20:27:41,8886937a,https://espncricinfo.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,56,2,92.62.121.102,,,FAIL,"Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:28:04,4865d5bd,https://manalokam.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,82,0,92.62.121.102,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:28:07,82ff4619,https://gizbot.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,95,2,106.215.90.21,,,SUCCESS,
+2026-01-22 20:28:21,18bfa838,https://economywatch.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,40,0,,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://economywatch.com/
+Call log:
+  - navigating to ""https://economywatch.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:28:45,5fde4233,https://thenewsminute.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,40,0,,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://thenewsminute.com/
+Call log:
+  - navigating to ""https://thenewsminute.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:28:47,8bf0e122,https://bleacherreport.com/,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,40,0,,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://bleacherreport.com/
+Call log:
+  - navigating to ""https://bleacherreport.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:28:55,1ec3ee48,https://kannada.boldsky.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,121,0,92.62.121.102,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:29:01,a7b75e4e,https://karnatakatoday.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,40,0,,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://karnatakatoday.in/
+Call log:
+  - navigating to ""https://karnatakatoday.in/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:29:25,11c83288,https://news24online.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,40,0,,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://news24online.com/
+Call log:
+  - navigating to ""https://news24online.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:29:28,f74fca04,https://www.maharashtratimes.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,40,0,,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.maharashtratimes.com/
+Call log:
+  - navigating to ""https://www.maharashtratimes.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:29:35,4a1483f3,https://indiabix.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,40,0,,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://indiabix.com/
+Call log:
+  - navigating to ""https://indiabix.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:29:41,f1f3b991,https://odia.oneindia.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,40,0,,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://odia.oneindia.com/
+Call log:
+  - navigating to ""https://odia.oneindia.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:30:05,ff8e44fe,https://zeebiz.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,40,0,,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://zeebiz.com/
+Call log:
+  - navigating to ""https://zeebiz.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:30:08,4b36ffc7,https://sharechat.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,40,0,,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://sharechat.com/
+Call log:
+  - navigating to ""https://sharechat.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:30:15,766e8b93,https://dnaindia.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,40,0,,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://dnaindia.com/
+Call log:
+  - navigating to ""https://dnaindia.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:30:22,c7e92e77,https://www.telugupost.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,40,0,,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.telugupost.com/
+Call log:
+  - navigating to ""https://www.telugupost.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:30:45,a5f5d00e,https://ahealthysliceoflife.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,40,0,,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://ahealthysliceoflife.com/
+Call log:
+  - navigating to ""https://ahealthysliceoflife.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:30:48,3df695a8,https://www.tv9telugu.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,40,0,,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tv9telugu.com/
+Call log:
+  - navigating to ""https://www.tv9telugu.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:30:54,dd32e39b,https://www.ap7am.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,39,0,,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ap7am.com/
+Call log:
+  - navigating to ""https://www.ap7am.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:31:02,2d1ab9d6,https://healthhype.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,40,0,,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://healthhype.com/
+Call log:
+  - navigating to ""https://healthhype.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:31:26,6789711c,https://drugs.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,40,0,,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://drugs.com/
+Call log:
+  - navigating to ""https://drugs.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:31:29,9c13cad4,https://asianetnews.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,40,0,,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://asianetnews.com/
+Call log:
+  - navigating to ""https://asianetnews.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:31:35,2db3c492,https://www.gq.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,40,0,,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.gq.com/
+Call log:
+  - navigating to ""https://www.gq.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:31:42,9364bbeb,https://www.goodreturns.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,40,0,,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.goodreturns.in/
+Call log:
+  - navigating to ""https://www.goodreturns.in/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:32:06,ebf789c0,https://thehindu.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,40,0,,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://thehindu.com/
+Call log:
+  - navigating to ""https://thehindu.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:32:09,6f4b41c8,https://www.telugu.greatandhra.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,40,0,,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.telugu.greatandhra.com/
+Call log:
+  - navigating to ""https://www.telugu.greatandhra.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:32:15,5584045a,https://andhrabhoomi.net,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,40,0,,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://andhrabhoomi.net/
+Call log:
+  - navigating to ""https://andhrabhoomi.net/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:32:22,4eddce1d,https://vartamanjari.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,40,0,,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://vartamanjari.in/
+Call log:
+  - navigating to ""https://vartamanjari.in/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:32:35,f797f14c,https://seithy.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,29,0,,,,FAIL,"Page.goto: net::ERR_NETWORK_CHANGED at https://seithy.com/
+Call log:
+  - navigating to ""https://seithy.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:32:43,6d30905b,https://top10homeremedies.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,20,0,,,,FAIL,"Page.goto: Navigation to ""https://top10homeremedies.com/"" is interrupted by another navigation to ""chrome-error://chromewebdata/""
+Call log:
+  - navigating to ""https://top10homeremedies.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:34:36,08ec693a,https://www.buzzfeed.com/in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,140,1,,,,SUCCESS,
+2026-01-22 20:34:42,14ce937a,https://www.mangalam.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,126,2,106.215.90.21,,,SUCCESS,
+2026-01-22 20:34:46,e1756499,https://tamil.oneindia.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,122,1,106.215.90.21,,,SUCCESS,
+2026-01-22 20:34:48,2f0871fd,https://businessinsider.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,2,0,106.215.90.21,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://businessinsider.in/
+Call log:
+  - navigating to ""https://businessinsider.in/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:34:48,76017c84,https://www.deepika.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,159,2,,,,SUCCESS,
+2026-01-22 20:36:51,aa9252da,https://asianetnews.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,122,1,106.215.90.21,,,SUCCESS,
+2026-01-22 20:36:51,96439ab4,https://indiamart.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,123,1,106.215.90.21,,,SUCCESS,
+2026-01-22 20:37:03,f3ce115b,https://dainiktribuneonline.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,146,0,106.215.90.21,,,SUCCESS,
+2026-01-22 20:37:06,d3eaf16e,https://www.punjabitribuneonline.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,144,0,106.215.90.21,,,SUCCESS,
+2026-01-22 20:38:58,40011b49,https://deshabhimani.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,126,2,106.215.90.21,,,SUCCESS,
+2026-01-22 20:39:36,7d357b81,https://fitfoodiefinds.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,149,0,106.215.90.21,,,SUCCESS,
+2026-01-22 20:39:37,5a9624c1,https://notebookcheck.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,154,1,106.215.90.21,,,SUCCESS,
+2026-01-22 20:39:45,d82f5cbe,https://www.pudhari.news,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,173,0,106.215.90.21,,,SUCCESS,
+2026-01-22 20:39:47,ce76668a,https://www.telugu.samayam.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,2,0,106.215.90.21,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.telugu.samayam.com/
+Call log:
+  - navigating to ""https://www.telugu.samayam.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:41:31,8bd0293d,https://www.hindustantimes.com/lifestyle/brunch,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,153,0,106.215.90.21,,,SUCCESS,
+2026-01-22 20:41:40,89e70beb,https://www.tv5news.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,8,0,106.215.90.21,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tv5news.in/
+Call log:
+  - navigating to ""https://www.tv5news.in/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:42:36,abf06049,https://pcmag.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,169,0,106.215.90.21,,,SUCCESS,
+2026-01-22 20:42:43,d64283af,https://tamil.thehindu.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,185,0,106.215.90.21,,,SUCCESS,
+2026-01-22 20:42:44,27ac63ae,https://cricketcountry.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,187,0,106.215.90.21,,,SUCCESS,
+2026-01-22 20:44:04,ffe7950f,https://breakingkerala.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,143,0,106.215.90.21,,,SUCCESS,
+2026-01-22 20:44:38,e23a5184,https://wonderhowto.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,113,1,106.215.90.21,,,SUCCESS,
+2026-01-22 20:45:00,003c47d4,https://health.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,143,0,106.215.90.21,,,SUCCESS,
+2026-01-22 20:45:33,e29a7f48,https://indianhealthyrecipes.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,170,0,106.215.90.21,,,SUCCESS,
+2026-01-22 20:46:54,5b2098c0,https://investopedia.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,169,0,106.215.90.21,,,SUCCESS,
+2026-01-22 20:47:04,f6abf239,https://activebeat.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,146,0,106.215.90.21,,,SUCCESS,
+2026-01-22 20:47:58,0079c766,https://equitymaster.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,144,0,106.215.90.21,,,SUCCESS,
+2026-01-22 20:47:59,9d30d74f,https://deadline.com/,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,178,0,106.215.90.21,,,SUCCESS,
+2026-01-22 20:48:57,312b9043,https://republicworld.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,123,2,106.215.90.21,,,SUCCESS,
+2026-01-22 20:49:16,42bd8a03,https://investopedia.com/,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,78,0,106.215.90.21,,,FAIL,"Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:49:49,2fd6c963,https://mykhel.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,164,0,106.215.90.21,,,SUCCESS,
+2026-01-22 20:49:52,401c53f9,https://www.telugu.suryaa.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,3,0,106.215.90.21,,,FAIL,"Page.goto: net::ERR_CERT_DATE_INVALID at https://www.telugu.suryaa.com/
+Call log:
+  - navigating to ""https://www.telugu.suryaa.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:50:51,28a8f669,https://delhimetrorail.info,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,172,0,106.215.90.21,,,SUCCESS,
+2026-01-22 20:51:01,d83c6e09,https://tv9kannada.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,124,1,106.215.90.21,,,SUCCESS,
+2026-01-22 20:51:56,7d02e94e,https://worldmalayalilive.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,160,0,106.215.90.21,,,SUCCESS,
+2026-01-22 20:52:25,4f8d851b,https://www.dinamalar.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,152,0,106.215.90.21,,,SUCCESS,
+2026-01-22 20:53:00,896aa380,https://tinybuddha.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,118,2,106.215.90.21,,,SUCCESS,
+2026-01-22 20:53:15,4f74f0fa,https://parents.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,143,1,106.215.90.21,,,SUCCESS,
+2026-01-22 20:53:47,891b59dc,https://prabhatkhabar.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,110,0,106.215.90.21,,,SUCCESS,
+2026-01-22 20:54:12,b8e0cefc,https://www.businesstoday.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,107,1,106.215.90.21,,,SUCCESS,
+2026-01-22 20:55:35,c055910a,https://hosakannada.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,155,0,106.215.90.21,,,SUCCESS,
+2026-01-22 20:55:42,3d1208cc,https://haribhoomi.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,147,1,106.215.90.21,,,SUCCESS,
+2026-01-22 20:56:10,8e818d81,https://jansatta.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,117,1,106.215.90.21,,,SUCCESS,
+2026-01-22 20:56:10,ce0e69b1,https://sakshi.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,143,0,106.215.90.21,,,SUCCESS,
+2026-01-22 20:57:28,d0cd4b99,https://www.dinakaran.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,112,1,106.215.90.21,,,SUCCESS,
+2026-01-22 20:57:58,55603369,https://mensfitness.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,107,0,106.215.90.21,,,SUCCESS,
+2026-01-22 20:58:03,73b63bc7,https://msn.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,113,1,106.215.90.21,,,SUCCESS,
+2026-01-22 20:58:31,15d4bec8,https://keralaspeaks.news,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,168,0,106.215.90.21,,,SUCCESS,
+2026-01-22 20:59:26,a1d60f3a,https://kannadatrendnews.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,55,0,106.215.90.21,,,FAIL,"Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 20:59:33,a7aec464,https://digit.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,95,0,106.215.90.21,,,FAIL,"Page.goto: net::ERR_TIMED_OUT at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 21:00:24,d0016ad0,https://www.vogue.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,140,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:00:31,4fc8b731,https://eisamay.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,183,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:01:41,b08d5d47,https://x-rates.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,127,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:02:18,e49f64d4,https://www.deshabhimani.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,113,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:02:21,46e5fadf,https://geeky-gadgets.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,174,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:02:27,b2348497,https://everydayhealth.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,115,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:02:29,59ab0cba,https://ndtv.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,8,1,106.215.90.21,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 21:03:17,a0aca40f,https://thetelugunews.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,59,0,106.215.90.21,,,FAIL,"Page.goto: net::ERR_CONNECTION_RESET at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 21:03:58,252dfa9c,https://body-scuplting.wonderhowto.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,136,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:04:30,44049f90,https://thehindu.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,122,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:04:32,7601a16c,https://cricschedule.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,2,0,106.215.90.21,,,FAIL,"Page.goto: net::ERR_ABORTED at https://cricschedule.com/
+Call log:
+  - navigating to ""https://cricschedule.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 21:04:45,948ad324,https://www.andhrawatch.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,46,0,106.215.90.21,,,FAIL,"Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://www.andhrawatch.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 21:04:47,3b13c14b,https://eenadu.net,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,1,0,106.215.90.21,,,FAIL,"Page.goto: net::ERR_CERT_DATE_INVALID at https://eenadu.net/
+Call log:
+  - navigating to ""https://eenadu.net/"", waiting until ""domcontentloaded""
+"
+2026-01-22 21:05:08,abb88306,https://sports.ndtv.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,110,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:05:22,2cc0a7b2,https://www.manatelangana.news,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,172,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:06:43,1ba647db,https://www.punjabijagran.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,116,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:07:12,454f3213,https://bdcricteam.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,110,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:07:14,71e3afc7,https://www.andhrajyothy.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,125,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:07:26,5a833e93,https://www.nawanzamana.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,173,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:08:37,ecd0da7c,https://www.punjabijagran.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,113,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:09:13,f167128b,https://www.grazia.co.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,119,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:09:14,c4e737b4,https://www.vaartha.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,121,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:09:45,a1d4eb85,https://madhyamam.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,139,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:11:07,f2ab5bee,https://oneindia.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,114,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:11:19,8c106d65,https://confirmtkt.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,124,2,106.215.90.21,,,SUCCESS,
+2026-01-22 21:11:36,4834f4f1,https://www.anandabazar.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,179,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:12:41,78ebed3a,https://www.reuters.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,175,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:13:12,6ab596ef,https://kannada.drivespark.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,113,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:13:16,a5f73858,https://pregnancy.healthguru.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,3,0,106.215.90.21,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://pregnancy.healthguru.com/
+Call log:
+  - navigating to ""https://pregnancy.healthguru.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 21:13:21,f3c1191c,https://gadgetsarena.org,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,5,0,106.215.90.21,,,FAIL,"Page.goto: net::ERR_ABORTED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 21:14:06,f713e716,https://www.wired.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,178,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:14:35,4891040f,https://m.activebeat.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,178,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:14:44,b6b192f2,https://tv9hindi.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,123,2,106.215.90.21,,,SUCCESS,
+2026-01-22 21:15:10,d8706667,https://timesbull.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,63,0,106.215.90.21,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 21:15:10,e4ebc893,https://southlive.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,108,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:15:12,b4c0766b,https://momjunction.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,2,0,106.215.90.21,,,FAIL,"Page.goto: net::ERR_CERT_DATE_INVALID at https://momjunction.com/
+Call log:
+  - navigating to ""https://momjunction.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 21:17:12,90cfe991,https://tamil.news18.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,122,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:17:13,8fd91379,https://rakskitchen.net,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,148,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:17:34,2bef4d2e,https://lindywell.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,179,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:18:04,a978eb17,https://samakalikamalayalam.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,171,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:19:16,ca319c47,https://hindustantimes.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,123,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:19:37,b007a037,https://ipowatch.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,145,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:20:01,3a0b7d79,https://beauty-mantra.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,23,0,106.215.90.21,,,FAIL,"Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://beauty-mantra.com/
+Call log:
+  - navigating to ""https://beauty-mantra.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 21:20:22,d326034b,https://wellnesstodaystudio.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,138,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:20:30,288f1acc,https://www.tarunbharat.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,175,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:22:26,6cb4d42e,https://pricedekho.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,123,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:22:34,7a3b29c3,https://finance.yahoo.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,197,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:22:53,8baab37b,https://www.tarladalal.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,171,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:23:28,424621d2,https://www.ajitjalandhar.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,177,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:24:23,3e90c9e7,https://www.assamiyakhabor.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,117,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:25:31,2c1f7c3b,https://cnbctv18.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,176,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:25:45,1d413a65,https://www.samayaepaper.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,137,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:25:59,5cd4de53,https://indianhealthyrecipes.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,186,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:26:05,88197ccf,https://economictimes.indiatimes.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,6,1,106.215.90.21,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 21:26:15,e6981306,https://gadgetstripe.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,111,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:26:18,6695a3f9,https://tdstaxindia.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,2,0,106.215.90.21,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://tdstaxindia.com/
+Call log:
+  - navigating to ""https://tdstaxindia.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 21:26:20,038b4cb9,https://pregnancy.about.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,2,0,106.215.90.21,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://pregnancy.about.com/
+Call log:
+  - navigating to ""https://pregnancy.about.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 21:27:52,02961525,https://www.grihshobha.in/food,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,126,2,106.215.90.21,,,SUCCESS,
+2026-01-22 21:27:59,6f76f533,https://exchange-rates.org,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,147,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:28:07,956c68b3,https://greatandhra.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,122,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:28:12,093fc7d2,https://investing.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,111,2,106.215.90.21,,,SUCCESS,
+2026-01-22 21:30:09,3fe08e9b,https://chitrajyothy.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,130,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:30:15,059f45db,https://womens-health-advice.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,142,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:30:24,8162eb61,https://tarladalal.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,137,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:31:17,a4e8599f,https://www.hollywoodreporter.com/,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,185,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:32:13,7a84b7e4,https://sportskeeda.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,118,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:32:21,57109183,https://www.hotstar.com/in/channels/star-maa,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,116,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:33:15,51e84d93,https://mathrubhumi.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,186,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:33:19,6d5c0fff,https://healthcentral.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,121,2,106.215.90.21,,,SUCCESS,
+2026-01-22 21:33:21,4be45016,https://gadgets360.com- Hindi,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,2,0,106.215.90.21,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://gadgets360.com- Hindi
+Call log:
+  - navigating to ""https://gadgets360.com- Hindi"", waiting until ""domcontentloaded""
+"
+2026-01-22 21:33:40,4e9db6fb,https://www.rozanaspokesman.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,79,1,106.215.90.21,,,FAIL,"Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 21:35:03,6e3d744c,https://uttamhindu.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,169,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:35:08,a9fafabf,https://fashionlady.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,112,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:35:17,ca53f0fb,https://phonearena.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,115,2,106.215.90.21,,,SUCCESS,
+2026-01-22 21:35:31,a983916b,https://kannada.filmibeat.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,111,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:37:40,9c38fd20,https://sportzwiki.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,157,0,,,,SUCCESS,
+2026-01-22 21:37:42,1c8cee73,https://elbebe.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,153,0,,,,SUCCESS,
+2026-01-22 21:38:05,768e1527,https://drugs.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,153,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:38:19,471b0e2e,https://yummytummyaarthi.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,181,0,,,,SUCCESS,
+2026-01-22 21:38:20,42fa7b59,https://flightradar24.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,40,0,,,,FAIL,"Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 21:38:22,492ad2d8,https://timesofindia.indiatimes.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,40,1,,,,FAIL,"Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 21:40:22,2dabdea1,https://businesstoday.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,123,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:40:26,28d34696,https://thefitindian.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,140,0,,,,SUCCESS,
+2026-01-22 21:40:29,52d44da1,https://travelerdoor.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,128,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:40:52,605970aa,https://manoramaonline.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,150,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:42:44,43db21fb,https://bengali.news18.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,111,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:43:05,b71392d2,https://news7tamil.live,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,162,0,,,,SUCCESS,
+2026-01-22 21:43:06,5c8a8eff,https://yahoo.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,156,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:43:09,cbe1e923,https://www.nasdaq.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,163,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:44:42,745e5aae,https://cnn.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,118,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:44:54,f7c1f045,https://economictimes.indiatimes.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,108,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:45:01,94456a61,https://sambad.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,116,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:46:23,e86f9763,https://businessworld.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,89,0,106.215.90.21,,,FAIL,"Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic"", waiting until ""domcontentloaded""
+"
+2026-01-22 21:46:46,e987dd41,https://indiatoday.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,123,2,106.215.90.21,,,SUCCESS,
+2026-01-22 21:46:56,9dc9e8e2,https://cricketaddictor.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,115,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:48:57,734b2f96,https://www.businessinsider.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,120,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:49:08,addc5e51,https://tupaki.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,141,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:49:10,13519cda,https://www.recipesinhindi.net,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,1,0,106.215.90.21,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.recipesinhindi.net/
+Call log:
+  - navigating to ""https://www.recipesinhindi.net/"", waiting until ""domcontentloaded""
+"
+2026-01-22 21:49:48,d9a16e04,https://dnaindia.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,204,0,,,,SUCCESS,
+2026-01-22 21:51:36,dda518da,https://bornfitness.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,158,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:51:39,fad94b35,https://laptop6.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,149,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:51:40,d85906e5,https://inquisitr.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,112,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:53:36,52905c36,https://indiatvnews.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,119,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:53:40,e40dc434,https://virarjun.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,120,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:54:06,bd8c7005,https://tastyrecipes.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,146,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:54:27,2852a689,https://becomegorgeous.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,46,0,106.215.90.21,,,FAIL,"Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://becomegorgeous.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 21:55:29,f93ae56c,https://tamil.filmibeat.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,113,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:56:05,76b950fc,https://livehindustan.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,118,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:57:17,3d1bb665,https://eisamay.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,170,0,106.215.90.21,,,SUCCESS,
+2026-01-22 21:57:25,c7b902c5,https://xda-developers.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,115,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:57:58,307ff849,https://amarujala.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,113,1,106.215.90.21,,,SUCCESS,
+2026-01-22 21:59:33,6f88e15d,https://www.teluguone.com/news,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,128,2,106.215.90.21,,,SUCCESS,
+2026-01-22 22:00:07,d07e1c66,https://www.moneycontrol.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,169,0,106.215.90.21,,,SUCCESS,
+2026-01-22 22:01:28,7e57ed56,https://indianrail.gov.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,114,1,106.215.90.21,,,SUCCESS,
+2026-01-22 22:02:13,8db93a36,https://tv9telugu.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,125,2,106.215.90.21,,,SUCCESS,
+2026-01-22 22:03:38,3360cab3,https://www.esakal.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,130,2,106.215.90.21,,,SUCCESS,
+2026-01-22 22:05:34,ef8a0add,https://softonic.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,201,0,106.215.90.21,,,SUCCESS,
+2026-01-22 22:06:03,f67f605e,https://www.awwwards.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,144,0,106.215.90.21,,,SUCCESS,
+2026-01-22 22:08:20,de8187df,https://medindia.net,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,166,0,106.215.90.21,,,SUCCESS,
+2026-01-22 22:09:15,413d25cb,https://www.chandrikadaily.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,192,0,106.215.90.21,,,SUCCESS,
+2026-01-22 22:10:02,b7e97429,https://rashtriyasahara.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,46,0,106.215.90.21,,,FAIL,"Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://rashtriyasahara.com/"", waiting until ""domcontentloaded""
+"
+2026-01-22 22:10:03,7c2a4c5b,https://mediaupdatesmalayalam.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,1,0,106.215.90.21,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://mediaupdatesmalayalam.in/
+Call log:
+  - navigating to ""https://mediaupdatesmalayalam.in/"", waiting until ""domcontentloaded""
+"
+2026-01-22 22:11:54,e40c6dcb,https://foodupe.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,111,1,106.215.90.21,,,SUCCESS,
+2026-01-22 22:13:56,88d03eb9,https://www.divyamarathi.bhaskar.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,121,1,,,,SUCCESS,
+2026-01-22 23:56:43,829441f7,https://idiva.com,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,desktop,14516,3,92.62.121.132,,,SUCCESS,
+2026-01-22 23:58:30,07210fe0,https://tripadvisor.in,https://www.timesofindiadigital.com/?utm_source=thirdpartyweb&utm_medium=google&utm_campaign=googletraffic,mobile,107,0,180.151.23.190,,,SUCCESS,

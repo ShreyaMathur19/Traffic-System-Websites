@@ -1,0 +1,499 @@
+Timestamp,Session ID,Referrer,Destination,Device Type,Total Time (seconds),Clicks,IP,City,Proxy,Status,Error Reason
+2026-01-29 13:21:53,a88d5f05,https://91mobiles.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,81,1,176.227.240.55,,,SUCCESS,
+2026-01-29 13:22:18,b882d385,https://x-rates.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,106,0,176.227.240.55,,,SUCCESS,
+2026-01-29 13:22:20,14ff3d93,https://www.pudhari.news,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,108,2,176.227.240.55,,,SUCCESS,
+2026-01-29 13:22:49,27e482e2,https://gadgetbridge.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,137,2,176.227.240.55,,,SUCCESS,
+2026-01-29 13:23:08,2c914299,https://pcmag.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,155,0,176.227.240.55,,,SUCCESS,
+2026-01-29 13:23:09,3632e5c0,https://timesofindia.indiatimes.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,75,2,176.227.240.55,,,SUCCESS,
+2026-01-29 13:23:40,58f0c9bf,https://equitymaster.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,80,2,176.227.240.55,,,SUCCESS,
+2026-01-29 13:24:06,35510f4e,https://vartamanjari.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,25,0,176.227.240.59,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://vartamanjari.in/
+Call log:
+  - navigating to ""https://vartamanjari.in/"", waiting until ""domcontentloaded""
+"
+2026-01-29 13:24:08,381c6fe2,https://tupaki.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,109,2,176.227.240.55,,,SUCCESS,
+2026-01-29 13:24:19,aeb33b16,https://www.outlookbusiness.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,89,2,176.227.240.55,,,SUCCESS,
+2026-01-29 13:24:33,0b3d9e12,https://www.goal.com/en-in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,84,2,176.227.240.55,,,SUCCESS,
+2026-01-29 13:24:35,e1fed65c,https://gadgets360.com- Hindi,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,2,0,176.227.240.59,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://gadgets360.com- Hindi
+Call log:
+  - navigating to ""https://gadgets360.com- Hindi"", waiting until ""domcontentloaded""
+"
+2026-01-29 13:25:31,05b27e9a,https://dnaindia.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,85,2,176.227.240.59,,,SUCCESS,
+2026-01-29 13:25:38,90df027f,https://idiva.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,90,2,176.227.240.59,,,SUCCESS,
+2026-01-29 13:25:40,d5b57bac,https://finance.yahoo.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,151,2,176.227.240.55,,,SUCCESS,
+2026-01-29 13:25:51,8de3c353,https://tv9bangla.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,92,3,176.227.240.59,,,SUCCESS,
+2026-01-29 13:26:32,11371a8b,https://geeky-gadgets.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,117,1,176.227.240.59,,,SUCCESS,
+2026-01-29 13:26:59,72ccec57,https://www.ap7am.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,87,3,176.227.240.59,,,SUCCESS,
+2026-01-29 13:27:27,b358d077,https://keralaspeaks.news,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,106,1,176.227.240.59,,,SUCCESS,
+2026-01-29 13:27:38,811d83d0,https://thewire.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,119,2,176.227.240.59,,,SUCCESS,
+2026-01-29 13:27:45,e0b3165a,https://www.nytimes.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,113,2,176.227.240.59,,,SUCCESS,
+2026-01-29 13:28:20,7b2ac7ad,https://yummytummyaarthi.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,107,1,176.227.240.59,,,SUCCESS,
+2026-01-29 13:29:00,116c7c57,https://ahealthysliceoflife.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,121,2,176.227.240.59,,,SUCCESS,
+2026-01-29 13:29:01,a911796c,https://india.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,94,1,176.227.240.59,,,SUCCESS,
+2026-01-29 13:29:02,0feb8a5b,https://healthmeup.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,2,0,176.227.240.61,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://healthmeup.com/
+Call log:
+  - navigating to ""https://healthmeup.com/"", waiting until ""domcontentloaded""
+"
+2026-01-29 13:29:04,9a8b40da,https://bengali.news18.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,85,2,176.227.240.59,,,SUCCESS,
+2026-01-29 13:29:33,f43bbbdf,https://bornfitness.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,108,0,176.227.240.59,,,SUCCESS,
+2026-01-29 13:30:13,c157801a,https://bollywoodshaadis.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,68,3,176.227.240.61,,,SUCCESS,
+2026-01-29 13:30:39,3df1f128,https://www.ajitjalandhar.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,96,2,176.227.240.61,,,SUCCESS,
+2026-01-29 13:30:39,c005d0b2,https://m.webmd.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,139,1,176.227.240.61,,,SUCCESS,
+2026-01-29 13:31:11,1673de6b,https://elbebe.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,130,0,176.227.240.61,,,SUCCESS,
+2026-01-29 13:31:17,77ab5ae1,https://gadgetsandwearables.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,104,1,176.227.240.61,,,SUCCESS,
+2026-01-29 13:31:52,02940459,https://healthcentral.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,99,1,176.227.240.61,,,SUCCESS,
+2026-01-29 13:32:07,476c8005,https://pricedekho.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,88,1,176.227.240.61,,,SUCCESS,
+2026-01-29 13:32:11,8f82f5ce,https://prabhatkhabar.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,91,1,176.227.240.61,,,SUCCESS,
+2026-01-29 13:32:34,325148a0,https://www.vegrecipesofindia.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,42,1,176.227.240.61,,,FAIL,"Page.goto: net::ERR_ABORTED at https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus"", waiting until ""domcontentloaded""
+"
+2026-01-29 13:32:53,0a45a646,https://inquisitr.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,95,2,176.227.240.61,,,SUCCESS,
+2026-01-29 13:32:55,fa1f44bb,https://www.cookingkhajana.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,103,2,176.227.240.61,,,SUCCESS,
+2026-01-29 13:33:13,55511b73,https://elle.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,65,3,176.227.240.61,,,SUCCESS,
+2026-01-29 13:33:25,a5cec5bc,https://www.saamana.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,74,3,176.227.240.61,,,SUCCESS,
+2026-01-29 13:34:10,a54c6ddb,https://cricketcountry.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,76,2,176.227.240.61,,,SUCCESS,
+2026-01-29 13:34:10,9f8fff48,https://www.keralakaumudi.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,95,2,176.227.240.61,,,SUCCESS,
+2026-01-29 13:34:27,4acfe0d4,https://haribhoomi.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,92,1,176.227.240.61,,,SUCCESS,
+2026-01-29 13:34:40,a10bee73,https://indiatvnews.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,87,2,176.227.240.69,,,SUCCESS,
+2026-01-29 13:34:59,a17062ef,https://taxguru.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,93,2,176.227.240.69,,,SUCCESS,
+2026-01-29 13:35:26,f416a83a,https://www.hotstar.com/in/channels/star-maa,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,58,2,176.227.240.71,,,SUCCESS,
+2026-01-29 13:36:11,e5d3be0b,https://mykhel.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,120,2,176.227.240.71,,,SUCCESS,
+2026-01-29 13:36:12,b1f88cd3,https://gadgetstripe.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,122,2,176.227.240.71,,,SUCCESS,
+2026-01-29 13:36:24,5dc49040,https://mayoclinic.org,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,103,2,176.227.240.71,,,SUCCESS,
+2026-01-29 13:36:39,ee6a471b,https://tv9telugu.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,72,3,176.227.240.71,,,SUCCESS,
+2026-01-29 13:36:54,28a56679,https://www.samayaepaper.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,114,2,176.227.240.71,,,SUCCESS,
+2026-01-29 13:37:12,89242833,https://www.businesstoday.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,61,3,176.227.240.71,,,SUCCESS,
+2026-01-29 13:37:29,843a356e,https://m.gsmarena.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,65,3,176.227.240.71,,,SUCCESS,
+2026-01-29 13:37:40,95b3b802,https://odia.news18.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,61,3,176.227.240.71,,,SUCCESS,
+2026-01-29 13:37:50,e1e938f3,https://news24online.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,98,0,176.227.240.71,,,SUCCESS,
+2026-01-29 13:38:01,96f9d0d3,https://dainiktribuneonline.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,67,3,176.227.240.71,,,SUCCESS,
+2026-01-29 13:38:12,e15f0d32,https://drugs.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,42,1,176.227.240.71,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus"", waiting until ""domcontentloaded""
+"
+2026-01-29 13:38:26,77c5b748,https://mindbodygreen.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,73,3,176.227.240.71,,,SUCCESS,
+2026-01-29 13:38:31,d3b7999c,https://momjunction.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,18,0,176.227.240.51,,,FAIL,"Page.goto: net::ERR_CERT_DATE_INVALID at https://momjunction.com/
+Call log:
+  - navigating to ""https://momjunction.com/"", waiting until ""domcontentloaded""
+"
+2026-01-29 13:39:00,efe5a12c,https://www.businessinsider.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,58,3,176.227.240.71,,,SUCCESS,
+2026-01-29 13:39:43,c824db52,https://www.hindustantimes.com/lifestyle/brunch,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,112,2,176.227.240.71,,,SUCCESS,
+2026-01-29 13:39:47,902ba73b,https://thehindu.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,80,2,176.227.240.51,,,SUCCESS,
+2026-01-29 13:39:56,b4715f71,https://www.anandabazar.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,136,2,176.227.240.71,,,SUCCESS,
+2026-01-29 13:40:06,5b44806b,https://activebeat.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,95,2,176.227.240.51,,,SUCCESS,
+2026-01-29 13:40:23,dae8b6bc,https://firstcry.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,83,1,176.227.240.51,,,SUCCESS,
+2026-01-29 13:40:54,d13a525b,https://news18.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,70,3,176.227.240.51,,,SUCCESS,
+2026-01-29 13:41:07,e6a081be,https://tamil.news18.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,70,3,176.227.240.51,,,SUCCESS,
+2026-01-29 13:41:35,e9dc8d8e,https://madhyamam.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,107,1,176.227.240.51,,,SUCCESS,
+2026-01-29 13:41:36,e6fda9ea,https://economictimes.indiatimes.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,73,3,176.227.240.51,,,SUCCESS,
+2026-01-29 13:41:40,f43ce556,https://cinekerala.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,4,0,176.227.240.51,,,FAIL,"Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://cinekerala.in/
+Call log:
+  - navigating to ""https://cinekerala.in/"", waiting until ""domcontentloaded""
+"
+2026-01-29 13:41:51,62345ee7,https://www.deepika.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,104,3,176.227.240.51,,,SUCCESS,
+2026-01-29 13:42:14,f9f7eb5c,https://medindia.net,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,66,2,176.227.240.51,,,SUCCESS,
+2026-01-29 13:42:41,a571fc55,https://www.esakal.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,64,3,176.227.240.51,,,SUCCESS,
+2026-01-29 13:42:44,585aebb1,https://www.nasdaq.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,110,1,176.227.240.51,,,SUCCESS,
+2026-01-29 13:43:09,af8aca04,https://karnatakatoday.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,25,0,176.227.240.51,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://karnatakatoday.in/
+Call log:
+  - navigating to ""https://karnatakatoday.in/"", waiting until ""domcontentloaded""
+"
+2026-01-29 13:43:21,61f720ef,https://www.navatelangana.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,101,1,176.227.240.51,,,SUCCESS,
+2026-01-29 13:43:28,342393fe,https://healthtechinsider.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,74,2,176.227.240.51,,,SUCCESS,
+2026-01-29 13:43:35,df16b09a,https://www.telugupost.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,104,1,176.227.240.51,,,SUCCESS,
+2026-01-29 13:43:53,bc2514ea,https://www.malayalam.samayam.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,25,0,176.227.240.75,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.malayalam.samayam.com/
+Call log:
+  - navigating to ""https://www.malayalam.samayam.com/"", waiting until ""domcontentloaded""
+"
+2026-01-29 13:43:59,72cb860a,https://www.eonline.com/,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,78,2,176.227.240.51,,,SUCCESS,
+2026-01-29 13:44:17,79faf4ec,https://9gag.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,67,3,176.227.240.51,,,SUCCESS,
+2026-01-29 13:45:10,693bd9bf,https://auditiondate.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,108,2,176.227.240.75,,,SUCCESS,
+2026-01-29 13:45:17,86f2c81b,https://www.prajasakti.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,84,2,176.227.240.75,,,SUCCESS,
+2026-01-29 13:45:38,dd9c9ad2,https://leanitup.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,28,0,176.227.240.75,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://leanitup.com/
+Call log:
+  - navigating to ""https://leanitup.com/"", waiting until ""domcontentloaded""
+"
+2026-01-29 13:45:40,1679d477,https://ndtv.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,125,2,176.227.240.75,,,SUCCESS,
+2026-01-29 13:45:43,5782db4b,https://tv9kannada.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,86,1,176.227.240.75,,,SUCCESS,
+2026-01-29 13:46:18,2a265eb2,https://fertilityfactor.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,138,1,176.227.240.75,,,SUCCESS,
+2026-01-29 13:46:33,8596bed3,https://tripadvisor.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,75,1,176.227.240.75,,,SUCCESS,
+2026-01-29 13:46:51,3d2756a2,https://financialexpress.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,73,3,176.227.240.75,,,SUCCESS,
+2026-01-29 13:47:16,5927de0b,https://dailynewskerala.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,25,0,176.227.240.73,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://dailynewskerala.in/
+Call log:
+  - navigating to ""https://dailynewskerala.in/"", waiting until ""domcontentloaded""
+"
+2026-01-29 13:47:48,fe3d7ea8,https://www.reuters.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,128,1,176.227.240.75,,,SUCCESS,
+2026-01-29 13:47:50,47b9540d,https://tinybuddha.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,91,2,176.227.240.75,,,SUCCESS,
+2026-01-29 13:47:53,112e0426,https://indiabix.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,129,1,176.227.240.75,,,SUCCESS,
+2026-01-29 13:48:19,e04ce2bf,https://telugustop.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,62,3,176.227.240.73,,,SUCCESS,
+2026-01-29 13:48:44,edd03353,https://www.sonima.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,130,1,176.227.240.75,,,SUCCESS,
+2026-01-29 13:49:05,4b031c82,https://cricketaddictor.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,75,3,176.227.240.73,,,SUCCESS,
+2026-01-29 13:49:28,792a551e,https://forbes.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,95,2,176.227.240.73,,,SUCCESS,
+2026-01-29 13:49:37,41af2805,https://timesbull.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,77,1,176.227.240.23,,,SUCCESS,
+2026-01-29 13:49:55,f3c40899,https://www.tarunbharat.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,126,2,176.227.240.73,,,SUCCESS,
+2026-01-29 13:50:13,6c800d27,https://thehindubusinessline.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,89,2,176.227.240.23,,,SUCCESS,
+2026-01-29 13:50:36,d65fd82e,https://www.awwwards.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,68,2,176.227.240.23,,,SUCCESS,
+2026-01-29 13:50:38,06f74d09,https://www.tv9telugu.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,92,3,176.227.240.23,,,SUCCESS,
+2026-01-29 13:50:59,bece8fcd,https://kannada.filmibeat.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,82,3,176.227.240.23,,,SUCCESS,
+2026-01-29 13:51:45,e9e25e32,https://businesschief.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,92,3,176.227.240.23,,,SUCCESS,
+2026-01-29 13:51:51,60c485b4,https://malayalam.filmibeat.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,74,3,176.227.240.23,,,SUCCESS,
+2026-01-29 13:52:04,579f7070,https://sakshi.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,128,2,176.227.240.23,,,SUCCESS,
+2026-01-29 13:52:20,6d65bcd4,https://www.samayaepaper.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,101,2,176.227.240.23,,,SUCCESS,
+2026-01-29 13:52:53,b5a1b513,https://business-standard.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,48,2,176.227.240.23,,,FAIL,"Page.goto: net::ERR_TIMED_OUT at https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus"", waiting until ""domcontentloaded""
+"
+2026-01-29 13:53:35,b0708bd0,https://indianexpress.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,156,3,176.227.240.23,,,SUCCESS,
+2026-01-29 13:53:39,2f01a89f,https://businessinsider.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,114,2,176.227.240.23,,,SUCCESS,
+2026-01-29 13:53:58,af39f918,https://m.activebeat.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,98,2,176.227.240.23,,,SUCCESS,
+2026-01-29 13:54:03,96499e7f,https://tastyrecipes.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,131,0,176.227.240.23,,,SUCCESS,
+2026-01-29 13:54:07,703dc980,https://thehindubusinessline.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,74,3,176.227.240.23,,,SUCCESS,
+2026-01-29 13:54:44,f06637e1,https://www.thehindubusinessline.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,68,3,176.227.240.65,,,SUCCESS,
+2026-01-29 13:54:55,d8ff155a,https://livemint.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,75,3,176.227.240.65,,,SUCCESS,
+2026-01-29 13:54:57,28c88320,https://www.telugu.greatandhra.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,2,0,176.227.240.65,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.telugu.greatandhra.com/
+Call log:
+  - navigating to ""https://www.telugu.greatandhra.com/"", waiting until ""domcontentloaded""
+"
+2026-01-29 13:55:41,82961e17,https://kannadatrendnews.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,103,2,176.227.240.65,,,SUCCESS,
+2026-01-29 13:55:48,cc0ae52f,https://parents.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,100,1,176.227.240.65,,,SUCCESS,
+2026-01-29 13:56:00,7e9de6dc,https://bdcricteam.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,117,2,176.227.240.65,,,SUCCESS,
+2026-01-29 13:56:25,07a30d31,https://mediaupdatesmalayalam.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,25,0,176.227.240.65,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://mediaupdatesmalayalam.in/
+Call log:
+  - navigating to ""https://mediaupdatesmalayalam.in/"", waiting until ""domcontentloaded""
+"
+2026-01-29 13:56:27,b956001d,https://tamil.goodreturns.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,89,2,176.227.240.65,,,SUCCESS,
+2026-01-29 13:56:47,831e32df,https://lindywell.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,123,2,176.227.240.65,,,SUCCESS,
+2026-01-29 13:56:51,b14ab77a,https://pregnancy.about.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,25,0,176.227.240.65,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://pregnancy.about.com/
+Call log:
+  - navigating to ""https://pregnancy.about.com/"", waiting until ""domcontentloaded""
+"
+2026-01-29 13:56:59,a9b5dbd8,https://tenders.indiamart.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,70,3,176.227.240.65,,,SUCCESS,
+2026-01-29 13:57:16,b7ede16f,https://gadgets360.com-Marathi,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,25,0,176.227.240.65,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://gadgets360.com-marathi/
+Call log:
+  - navigating to ""https://gadgets360.com-marathi/"", waiting until ""domcontentloaded""
+"
+2026-01-29 13:57:21,b88af1a9,https://malayalam.boldsky.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,99,2,176.227.240.65,,,SUCCESS,
+2026-01-29 13:58:14,55b36ce4,https://businessworld.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,107,2,176.227.240.65,,,SUCCESS,
+2026-01-29 13:58:29,31157341,https://news7tamil.live,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,72,2,176.227.240.65,,,SUCCESS,
+2026-01-29 13:58:34,b9d3f78b,https://asianetnews.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,73,3,176.227.240.65,,,SUCCESS,
+2026-01-29 13:59:11,03778714,https://saamtv.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,132,2,176.227.240.65,,,SUCCESS,
+2026-01-29 13:59:13,88c76f44,https://www.hollywoodreporter.com/,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,145,1,176.227.240.65,,,SUCCESS,
+2026-01-29 13:59:46,0f7405ba,https://india.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,92,4,176.227.240.17,,,SUCCESS,
+2026-01-29 13:59:52,9246e53a,https://navgujaratsamay.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,77,2,176.227.240.17,,,SUCCESS,
+2026-01-29 13:59:55,0d8d357a,https://asianetnews.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,86,2,176.227.240.17,,,SUCCESS,
+2026-01-29 14:00:30,34c32194,https://kannada.drivespark.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,77,3,176.227.240.17,,,SUCCESS,
+2026-01-29 14:00:59,fcd97f52,https://mensfitness.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,66,2,176.227.240.17,,,SUCCESS,
+2026-01-29 14:00:59,f1ce0b22,https://www.vogue.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,107,2,176.227.240.17,,,SUCCESS,
+2026-01-29 14:01:19,f5bb370f,https://muscleandfitness.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,92,3,176.227.240.17,,,SUCCESS,
+2026-01-29 14:02:11,a7dbdf6b,https://hindustantimes.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,101,2,176.227.240.17,,,SUCCESS,
+2026-01-29 14:02:16,3d6db092,https://nse-india.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,4,0,176.227.240.17,,,FAIL,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://nse-india.com/
+Call log:
+  - navigating to ""https://nse-india.com/"", waiting until ""domcontentloaded""
+"
+2026-01-29 14:02:28,df7068db,https://investing.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,88,2,176.227.240.17,,,SUCCESS,
+2026-01-29 14:02:36,20465725,https://laptop6.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,160,2,176.227.240.17,,,SUCCESS,
+2026-01-29 14:02:57,2b89c736,https://dainiknavajyoti.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,98,2,176.227.240.17,,,SUCCESS,
+2026-01-29 14:03:27,c74c6207,https://tarladalal.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,148,1,176.227.240.17,,,SUCCESS,
+2026-01-29 14:03:45,46483cc1,https://dnaindia.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,88,2,176.227.240.17,,,SUCCESS,
+2026-01-29 14:04:02,e124c613,https://www.moneycontrol.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,93,1,176.227.240.17,,,SUCCESS,
+2026-01-29 14:04:22,b6c8c1eb,https://chitrajyothy.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,85,1,176.227.240.17,,,SUCCESS,
+2026-01-29 14:04:32,675e6bde,https://deadline.com/,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,116,0,176.227.240.17,,,SUCCESS,
+2026-01-29 14:05:12,10970c3a,https://thesamaja.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,70,3,176.227.240.77,,,SUCCESS,
+2026-01-29 14:05:16,c2745154,https://indiatvnews.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,90,2,176.227.240.77,,,SUCCESS,
+2026-01-29 14:05:34,d40210fb,https://caclubindia.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,71,2,176.227.240.77,,,SUCCESS,
+2026-01-29 14:05:48,bce32803,https://delhimetrorail.info,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,140,1,176.227.240.77,,,SUCCESS,
+2026-01-29 14:06:02,d20eb5e8,https://www.grazia.co.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,89,2,176.227.240.77,,,SUCCESS,
+2026-01-29 14:06:22,9f32ece7,https://www.deshabhimani.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,69,3,176.227.240.77,,,SUCCESS,
+2026-01-29 14:06:35,09012cc4,https://eenadu.net,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,33,0,176.227.240.77,,,FAIL,"Page.goto: net::ERR_TIMED_OUT at https://eenadu.net/
+Call log:
+  - navigating to ""https://eenadu.net/"", waiting until ""domcontentloaded""
+"
+2026-01-29 14:07:23,41dc31a6,https://investopedia.com/,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,127,2,176.227.240.77,,,SUCCESS,
+2026-01-29 14:07:24,8dca2352,https://thehindu.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,96,2,176.227.240.77,,,SUCCESS,
+2026-01-29 14:07:37,ea373bb3,https://babycentre.co.uk,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,122,1,176.227.240.77,,,SUCCESS,
+2026-01-29 14:08:42,788b99ab,https://techradar.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,127,1,176.227.240.77,,,SUCCESS,
+2026-01-29 14:08:51,d406a6f1,https://cnbctv18.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,148,0,176.227.240.77,,,SUCCESS,
+2026-01-29 14:08:53,1bd38fef,https://everydayhealth.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,90,1,176.227.240.79,,,SUCCESS,
+2026-01-29 14:08:56,9bb5a5da,https://thenewsminute.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,91,3,176.227.240.79,,,SUCCESS,
+2026-01-29 14:09:04,3018cac6,https://ndtv.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,87,3,176.227.240.79,,,SUCCESS,
+2026-01-29 14:10:26,ea812abd,https://sammobile.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,89,1,176.227.240.31,,,SUCCESS,
+2026-01-29 14:10:35,a15d47d2,https://medicalnewstoday.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,91,1,176.227.240.31,,,SUCCESS,
+2026-01-29 14:10:44,2bd71906,https://www.maharashtratimes.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,113,1,176.227.240.31,,,SUCCESS,
+2026-01-29 14:11:01,8bf88721,https://dheivegam.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,138,0,176.227.240.31,,,SUCCESS,
+2026-01-29 14:11:10,31aef847,https://mathrubhumi.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,136,2,176.227.240.31,,,SUCCESS,
+2026-01-29 14:12:06,265774e4,https://ndtv.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,82,3,176.227.240.31,,,SUCCESS,
+2026-01-29 14:12:13,852d2a31,https://gsmarena.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,71,3,176.227.240.31,,,SUCCESS,
+2026-01-29 14:12:20,0f56d815,https://www.nawanzamana.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,104,2,176.227.240.31,,,SUCCESS,
+2026-01-29 14:12:46,e3c2ba93,https://investopedia.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,140,0,176.227.240.31,,,SUCCESS,
+2026-01-29 14:12:58,672c833d,https://www.vogue.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,108,2,176.227.240.31,,,SUCCESS,
+2026-01-29 14:13:43,9df9f067,https://bbc.com/hindi,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,97,2,176.227.240.31,,,SUCCESS,
+2026-01-29 14:13:52,2f4843c6,https://sharechat.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,92,1,176.227.240.31,,,SUCCESS,
+2026-01-29 14:14:09,1c29cda3,https://www.grihshobha.in/food,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,83,2,176.227.240.31,,,SUCCESS,
+2026-01-29 14:14:12,f320a4cc,https://patrika.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,73,3,176.227.240.31,,,SUCCESS,
+2026-01-29 14:14:26,4a5172f9,https://yahoo.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,133,2,176.227.240.31,,,SUCCESS,
+2026-01-29 14:15:12,6c3f5bd8,https://patrika.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,89,3,176.227.240.43,,,SUCCESS,
+2026-01-29 14:15:24,b4309e33,https://maharashtratimes.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,91,3,176.227.240.43,,,SUCCESS,
+2026-01-29 14:15:27,a94610e2,https://www.sentinelassam.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,74,1,176.227.240.43,,,SUCCESS,
+2026-01-29 14:15:50,d1fc3491,https://hindi.moneycontrol.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,101,2,176.227.240.43,,,SUCCESS,
+2026-01-29 14:16:08,77802535,https://sportzwiki.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,102,2,176.227.240.43,,,SUCCESS,
+2026-01-29 14:16:39,c1edd6e9,https://rakskitchen.net,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,72,1,176.227.240.43,,,SUCCESS,
+2026-01-29 14:16:41,717d23fe,https://enewz.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,77,1,176.227.240.43,,,SUCCESS,
+2026-01-29 14:17:25,f1a35d70,https://telugu.telugubullet.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,132,2,176.227.240.43,,,SUCCESS,
+2026-01-29 14:17:29,b7840720,https://www.goodrx.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,81,2,176.227.240.43,,,SUCCESS,
+2026-01-29 14:17:36,7adca470,https://www.wired.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,105,2,176.227.240.43,,,SUCCESS,
+2026-01-29 14:17:43,e1b5657d,https://southlive.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,61,3,176.227.240.43,,,SUCCESS,
+2026-01-29 14:17:57,ccf8e821,https://greatandhra.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,77,3,176.227.240.43,,,SUCCESS,
+2026-01-29 14:18:47,81bb030f,https://fortune.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,81,1,176.227.240.43,,,SUCCESS,
+2026-01-29 14:19:19,3d64df2f,https://www.maalaimalar.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,95,2,176.227.240.43,,,SUCCESS,
+2026-01-29 14:19:48,b9637dc1,https://financeyogi.net,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,111,2,176.227.240.43,,,SUCCESS,
+2026-01-29 14:19:51,67a1cdd1,https://bseindia.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,141,3,176.227.240.43,,,SUCCESS,
+2026-01-29 14:19:51,4758b223,https://jvpnews.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,135,1,176.227.240.43,,,SUCCESS,
+2026-01-29 14:20:20,fbdb259e,https://keralafast.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,28,0,176.227.240.47,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://keralafast.com/
+Call log:
+  - navigating to ""https://keralafast.com/"", waiting until ""domcontentloaded""
+"
+2026-01-29 14:20:38,38c22751,https://navbharattimes.indiatimes.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,78,3,176.227.240.47,,,SUCCESS,
+2026-01-29 14:21:05,86ef84cd,https://www.gq.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,138,2,176.227.240.47,,,SUCCESS,
+2026-01-29 14:21:16,600156ae,https://tv9hindi.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,87,3,176.227.240.47,,,SUCCESS,
+2026-01-29 14:21:28,198c0413,https://gadgetsarena.org,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,68,2,176.227.240.47,,,SUCCESS,
+2026-01-29 14:22:06,55040c6b,https://tamizhakam.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,134,2,176.227.240.47,,,SUCCESS,
+2026-01-29 14:22:14,7b60f78c,https://softonic.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,96,2,176.227.240.47,,,SUCCESS,
+2026-01-29 14:22:20,1f9274c7,https://economictimes.indiatimes.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,75,3,176.227.240.47,,,SUCCESS,
+2026-01-29 14:22:22,1771e518,https://economictimes.indiatimes.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,16,2,176.227.240.47,,,FAIL,"Page.goto: Navigation to ""https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus"" is interrupted by another navigation to ""https://economictimes.indiatimes.com/defaultinterstitial.cms""
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus"", waiting until ""domcontentloaded""
+"
+2026-01-29 14:22:32,7329835b,https://cookingvideos.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,76,4,176.227.240.47,,,SUCCESS,
+2026-01-29 14:22:48,0a261450,https://www.telugu.samayam.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,25,0,176.227.240.47,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.telugu.samayam.com/
+Call log:
+  - navigating to ""https://www.telugu.samayam.com/"", waiting until ""domcontentloaded""
+"
+2026-01-29 14:22:57,e86c10a5,https://foodupe.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,89,3,176.227.240.47,,,SUCCESS,
+2026-01-29 14:24:16,5062d3f7,https://laptop251.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,121,1,176.227.240.47,,,SUCCESS,
+2026-01-29 14:24:16,8e208c98,https://malayalam.drivespark.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,116,2,176.227.240.47,,,SUCCESS,
+2026-01-29 14:24:31,ec3055bf,https://www.theprajatantra.org/prajatantra,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,102,3,176.227.240.47,,,SUCCESS,
+2026-01-29 14:25:12,561be5be,https://eisamay.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,134,0,176.227.240.47,,,SUCCESS,
+2026-01-29 14:25:29,2e132658,https://whattoexpect.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,177,1,176.227.240.47,,,SUCCESS,
+2026-01-29 14:26:04,630fb8cb,https://www.phonearena.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,93,2,176.227.240.53,,,SUCCESS,
+2026-01-29 14:26:14,6e3b3b2d,https://odishatv.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,118,3,176.227.240.53,,,SUCCESS,
+2026-01-29 14:26:18,2c611416,https://teluguonlinenews.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,121,1,176.227.240.53,,,SUCCESS,
+2026-01-29 14:26:36,74827860,https://samakalikamalayalam.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,83,1,176.227.240.53,,,SUCCESS,
+2026-01-29 14:27:13,fcf5dd7a,https://hubpages.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,69,2,176.227.240.53,,,SUCCESS,
+2026-01-29 14:27:14,be40478d,https://www.dinalipi.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,104,2,176.227.240.53,,,SUCCESS,
+2026-01-29 14:27:24,d4b8487a,https://healthhype.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,69,3,176.227.240.53,,,SUCCESS,
+2026-01-29 14:28:10,f0df3100,https://www.punjabijagran.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,93,2,176.227.240.53,,,SUCCESS,
+2026-01-29 14:28:39,5602313f,https://www.sathyamonline.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,75,3,176.227.240.53,,,SUCCESS,
+2026-01-29 14:28:39,5497a14d,https://www.teluguone.com/news,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,141,2,176.227.240.53,,,SUCCESS,
+2026-01-29 14:28:49,ff1c4d16,https://money.rediff.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,94,1,176.227.240.53,,,SUCCESS,
+2026-01-29 14:29:09,8f148380,https://babycenter.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,115,2,176.227.240.53,,,SUCCESS,
+2026-01-29 14:29:49,4cb93367,https://www.asomiyapratidin.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,98,1,176.227.240.59,,,SUCCESS,
+2026-01-29 14:29:59,11dc9887,https://vijaykarnataka.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,79,3,176.227.240.59,,,SUCCESS,
+2026-01-29 14:30:26,191ab2ca,https://kannada.boldsky.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,97,2,176.227.240.59,,,SUCCESS,
+2026-01-29 14:30:52,5eb1fe2e,https://goodreturns.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,102,1,176.227.240.59,,,SUCCESS,
+2026-01-29 14:31:20,d6bb7728,https://andhrabhoomi.net,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,28,0,176.227.240.59,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://andhrabhoomi.net/
+Call log:
+  - navigating to ""https://andhrabhoomi.net/"", waiting until ""domcontentloaded""
+"
+2026-01-29 14:31:20,df33d395,https://rashtriyasahara.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,161,2,176.227.240.59,,,SUCCESS,
+2026-01-29 14:31:23,e5953523,https://www.recipesinhindi.net,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,3,0,176.227.240.59,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.recipesinhindi.net/
+Call log:
+  - navigating to ""https://www.recipesinhindi.net/"", waiting until ""domcontentloaded""
+"
+2026-01-29 14:31:26,907a4e72,https://sharechat.com/,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,97,2,176.227.240.59,,,SUCCESS,
+2026-01-29 14:32:17,d398cc48,https://www.marca.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,110,3,176.227.240.59,,,SUCCESS,
+2026-01-29 14:32:38,2fcb235c,https://www.dharitri.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,159,0,176.227.240.59,,,SUCCESS,
+2026-01-29 14:32:50,28d75bf3,https://deccanherald.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,86,3,176.227.240.59,,,SUCCESS,
+2026-01-29 14:32:55,623b426e,https://jagran.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,94,3,176.227.240.59,,,SUCCESS,
+2026-01-29 14:33:03,4ae98edf,https://www.tamil.samayam.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,25,0,176.227.240.59,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tamil.samayam.com/
+Call log:
+  - navigating to ""https://www.tamil.samayam.com/"", waiting until ""domcontentloaded""
+"
+2026-01-29 14:33:04,953984cf,https://telugu.filmibeat.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,98,2,176.227.240.59,,,SUCCESS,
+2026-01-29 14:34:02,827aed67,https://livesoccertv.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,71,2,176.227.240.59,,,SUCCESS,
+2026-01-29 14:34:28,33da4869,https://cnn.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,84,3,176.227.240.59,,,SUCCESS,
+2026-01-29 14:34:28,245bc15e,https://phonearena.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,83,4,176.227.240.59,,,SUCCESS,
+2026-01-29 14:34:39,41a87809,https://www.goodreturns.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,103,0,176.227.240.59,,,SUCCESS,
+2026-01-29 14:34:51,a7dd4154,https://webmd.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,154,1,176.227.240.59,,,SUCCESS,
+2026-01-29 14:35:41,b1f7261a,https://www.forbesindia.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,72,3,176.227.240.61,,,SUCCESS,
+2026-01-29 14:36:15,7a296672,https://drugs.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,107,0,176.227.240.61,,,SUCCESS,
+2026-01-29 14:36:15,3aa3a4a5,https://www.wsj.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,83,0,176.227.240.61,,,SUCCESS,
+2026-01-29 14:36:17,1210d363,https://odiapua.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,135,2,176.227.240.61,,,SUCCESS,
+2026-01-29 14:36:25,562721e5,https://nadunudi.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,106,2,176.227.240.61,,,SUCCESS,
+2026-01-29 14:37:36,05b45d49,https://ipowatch.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,114,3,176.227.240.61,,,SUCCESS,
+2026-01-29 14:38:00,a98b799c,https://foodnetwork.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,105,1,176.227.240.63,,,SUCCESS,
+2026-01-29 14:38:03,bfa21987,https://jansatta.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,108,1,176.227.240.63,,,SUCCESS,
+2026-01-29 14:38:17,87701ce4,https://livehindustan.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,111,1,176.227.240.63,,,SUCCESS,
+2026-01-29 14:38:45,1c50c1d2,https://sandesh.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,147,1,176.227.240.63,,,SUCCESS,
+2026-01-29 14:39:20,2bd75379,https://navabharat.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,103,1,176.227.240.63,,,SUCCESS,
+2026-01-29 14:39:52,5680c86f,https://gujaratsamachar.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,94,3,176.227.240.71,,,SUCCESS,
+2026-01-29 14:40:22,cfb8d717,https://divyahimachal.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,142,2,176.227.240.63,,,SUCCESS,
+2026-01-29 14:40:27,adb6eebf,https://indianhealthyrecipes.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,143,1,176.227.240.63,,,SUCCESS,
+2026-01-29 14:40:53,2af445b3,https://wikibio.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,92,2,176.227.240.71,,,SUCCESS,
+2026-01-29 14:40:57,58709377,https://top10homeremedies.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,132,2,176.227.240.71,,,SUCCESS,
+2026-01-29 14:41:45,263fd556,https://cnn.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,78,2,176.227.240.71,,,SUCCESS,
+2026-01-29 14:41:48,c169cb8d,https://www.gqindia.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,116,2,176.227.240.71,,,SUCCESS,
+2026-01-29 14:41:58,d5b72841,https://body-scuplting.wonderhowto.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,95,2,176.227.240.71,,,SUCCESS,
+2026-01-29 14:42:13,b6652a92,https://www.rozanaspokesman.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,80,3,176.227.240.71,,,SUCCESS,
+2026-01-29 14:42:37,a1cbea3d,https://www.drjyotisingh.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,99,1,176.227.240.71,,,SUCCESS,
+2026-01-29 14:43:31,3e030b5f,https://tamil.asianetnews.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,102,1,176.227.240.69,,,SUCCESS,
+2026-01-29 14:43:31,b91a3674,https://odia.oneindia.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,105,2,176.227.240.69,,,SUCCESS,
+2026-01-29 14:43:43,3abf7658,https://vijaykarnataka.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,105,2,176.227.240.69,,,SUCCESS,
+2026-01-29 14:43:48,db2d6b03,https://livehindustan.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,95,1,176.227.240.69,,,SUCCESS,
+2026-01-29 14:44:12,2d6b6708,https://odia.news18.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,94,1,176.227.240.69,,,SUCCESS,
+2026-01-29 14:45:08,3e46f842,https://businesstoday.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,97,2,176.227.240.49,,,SUCCESS,
+2026-01-29 14:45:10,49114a86,https://beebom.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,87,1,176.227.240.49,,,SUCCESS,
+2026-01-29 14:45:23,8f94091b,https://prabhasakshi.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,71,2,176.227.240.49,,,SUCCESS,
+2026-01-29 14:45:47,08b9bbf8,https://www.manatelangana.news,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,118,2,176.227.240.49,,,SUCCESS,
+2026-01-29 14:45:48,0a94c2f4,https://assamtribune.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,136,2,176.227.240.49,,,SUCCESS,
+2026-01-29 14:46:24,a374b18f,https://khanakhazana.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,75,3,176.227.240.49,,,SUCCESS,
+2026-01-29 14:46:48,05dfbf71,https://indiatoday.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,85,1,176.227.240.49,,,SUCCESS,
+2026-01-29 14:46:57,112255fd,https://laptopmag.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,107,2,176.227.240.49,,,SUCCESS,
+2026-01-29 14:47:24,c33d18fe,https://hilaptop.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,96,1,176.227.240.49,,,SUCCESS,
+2026-01-29 14:47:53,2cc5a621,https://www.prameyanews.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,89,1,176.227.240.49,,,SUCCESS,
+2026-01-29 14:48:07,d6542b01,https://cricbuzz.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,79,3,176.227.240.49,,,SUCCESS,
+2026-01-29 14:48:19,922473cc,https://www.food.ndtv.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,25,0,176.227.240.49,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.food.ndtv.com/
+Call log:
+  - navigating to ""https://www.food.ndtv.com/"", waiting until ""domcontentloaded""
+"
+2026-01-29 14:48:39,5aefb36f,https://pregnantchicken.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,172,0,176.227.240.49,,,SUCCESS,
+2026-01-29 14:48:52,faa570bc,https://thetelugunews.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,114,1,176.227.240.49,,,SUCCESS,
+2026-01-29 14:48:54,db78d321,https://engadget.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,90,1,176.227.240.49,,,SUCCESS,
+2026-01-29 14:49:51,7aa89152,https://travelandleisure.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,103,1,176.227.240.49,,,SUCCESS,
+2026-01-29 14:50:12,eaba1582,https://financialpost.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,113,2,176.227.240.73,,,SUCCESS,
+2026-01-29 14:50:14,7854d203,https://filmibeat.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,81,3,176.227.240.73,,,SUCCESS,
+2026-01-29 14:50:46,d2b08b75,https://medhelp.org,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,127,1,176.227.240.73,,,SUCCESS,
+2026-01-29 14:51:09,30a8190e,https://www.loksatta.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,134,1,176.227.240.73,,,SUCCESS,
+2026-01-29 14:51:10,7310a62c,https://zeebiz.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,79,3,176.227.240.73,,,SUCCESS,
+2026-01-29 14:51:35,9c0ecd51,https://makemebabies.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,82,2,176.227.240.73,,,SUCCESS,
+2026-01-29 14:52:07,ae19a76a,https://www.indiewire.com/,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,112,1,176.227.240.73,,,SUCCESS,
+2026-01-29 14:52:08,3c98199b,https://sportskeeda.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,81,3,176.227.240.73,,,SUCCESS,
+2026-01-29 14:52:30,ef1f8dba,https://myhealthtips.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,79,3,176.227.240.73,,,SUCCESS,
+2026-01-29 14:53:02,b3b37345,https://techcrunch.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,112,2,176.227.240.73,,,SUCCESS,
+2026-01-29 14:53:08,95b8dd36,https://bengali.abplive.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,93,3,176.227.240.73,,,SUCCESS,
+2026-01-29 14:53:12,3050e5e6,https://sportzwiki.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,3,0,176.227.240.75,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://sportzwiki.com/
+Call log:
+  - navigating to ""https://sportzwiki.com/"", waiting until ""domcontentloaded""
+"
+2026-01-29 14:53:52,c09827c3,https://eisamay.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,81,1,176.227.240.75,,,SUCCESS,
+2026-01-29 14:54:05,005a8b07,https://teluguadda.co.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,117,0,176.227.240.75,,,SUCCESS,
+2026-01-29 14:55:12,2b91a49c,https://uttamhindu.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,185,0,176.227.240.75,,,SUCCESS,
+2026-01-29 14:55:16,ef4495a7,https://udayavani.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,70,2,176.227.240.23,,,FAIL,"Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus"", waiting until ""domcontentloaded""
+"
+2026-01-29 14:55:31,2142ac75,https://kanaknews.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,149,1,176.227.240.75,,,SUCCESS,
+2026-01-29 14:56:25,396c437b,https://health.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,193,0,176.227.240.23,,,SUCCESS,
+2026-01-29 14:56:39,fd9f4f81,https://dinamani.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,167,0,176.227.240.23,,,SUCCESS,
+2026-01-29 14:57:49,9f06754b,https://gizbot.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,137,1,176.227.240.23,,,SUCCESS,
+2026-01-29 14:58:25,af708d4c,https://www.lokmat.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,189,0,176.227.240.23,,,SUCCESS,
+2026-01-29 14:58:27,973a54ff,https://www.chandrikadaily.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,121,0,176.227.240.23,,,SUCCESS,
+2026-01-29 14:58:36,e11b385b,https://aajkaaldaily.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,116,1,176.227.240.23,,,SUCCESS,
+2026-01-29 14:59:02,5e2d04cf,https://hosakannada.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,229,1,176.227.240.23,,,SUCCESS,
+2026-01-29 14:59:27,f8b43e04,https://vijayavani.net,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,97,1,176.227.240.23,,,SUCCESS,
+2026-01-29 14:59:40,32db2c41,https://cinemapranthan.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,74,2,176.227.240.65,,,SUCCESS,
+2026-01-29 15:00:10,82af3f9a,https://wellnesstodaystudio.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,102,2,176.227.240.65,,,SUCCESS,
+2026-01-29 15:00:14,c2ba781d,https://www.bloomberg.com/india,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,98,4,176.227.240.65,,,SUCCESS,
+2026-01-29 15:00:44,a5a06d65,https://www.thanthitv.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,102,2,176.227.240.65,,,SUCCESS,
+2026-01-29 15:01:34,6cddcd50,https://sports.ndtv.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,79,3,176.227.240.65,,,SUCCESS,
+2026-01-29 15:01:44,2a831ceb,https://techradar.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,123,2,176.227.240.65,,,SUCCESS,
+2026-01-29 15:01:47,afa462be,https://mediafire.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,140,3,176.227.240.65,,,SUCCESS,
+2026-01-29 15:01:59,89e0a386,https://exchange-rates.org,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,109,3,176.227.240.65,,,SUCCESS,
+2026-01-29 15:02:06,2cccaeb8,https://manoramaonline.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,82,3,176.227.240.65,,,SUCCESS,
+2026-01-29 15:02:50,210b647b,https://www.assamiyakhabor.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,76,3,176.227.240.65,,,SUCCESS,
+2026-01-29 15:02:59,aef829d3,https://erail.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,75,3,176.227.240.65,,,SUCCESS,
+2026-01-29 15:02:59,03fea10b,https://mysmartprice.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,72,4,176.227.240.65,,,SUCCESS,
+2026-01-29 15:03:24,9525b79e,https://skyscanner.co.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,78,2,176.227.240.65,,,SUCCESS,
+2026-01-29 15:03:44,c75f2374,https://www.dailypunjabtimes.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,104,1,176.227.240.65,,,SUCCESS,
+2026-01-29 15:04:16,139a4881,https://deccanherald.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,77,3,176.227.240.65,,,SUCCESS,
+2026-01-29 15:04:35,8b097c56,https://manoramanews.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,104,2,176.227.240.65,,,SUCCESS,
+2026-01-29 15:04:44,c4e99cf9,https://moneycontrol.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,79,3,176.227.240.17,,,SUCCESS,
+2026-01-29 15:04:51,bda58bf7,https://www.samacharjagat.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,111,1,176.227.240.65,,,SUCCESS,
+2026-01-29 15:06:12,10db25c0,https://indianhealthyrecipes.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,147,0,176.227.240.17,,,SUCCESS,
+2026-01-29 15:06:16,09e64218,https://dnaindia.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,101,2,176.227.240.17,,,SUCCESS,
+2026-01-29 15:06:17,0d2a0be5,https://flightradar24.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,93,0,176.227.240.17,,,SUCCESS,
+2026-01-29 15:06:19,6e75284f,https://tamil.filmibeat.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,88,3,176.227.240.17,,,SUCCESS,
+2026-01-29 15:07:05,83250ab7,https://marathigold.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,168,2,176.227.240.17,,,SUCCESS,
+2026-01-29 15:07:40,c8b36854,https://confirmtkt.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,88,3,176.227.240.17,,,SUCCESS,
+2026-01-29 15:07:52,532021f3,https://wynk.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,92,2,176.227.240.17,,,SUCCESS,
+2026-01-29 15:08:06,ac57bc1a,https://www.aajkaal.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,110,3,176.227.240.17,,,SUCCESS,
+2026-01-29 15:08:41,6b8b4733,https://www.dinamalar.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,144,0,176.227.240.17,,,SUCCESS,
+2026-01-29 15:09:11,d30fb036,https://businesstoday.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,90,2,176.227.240.19,,,SUCCESS,
+2026-01-29 15:09:14,50eb8a20,https://livestrong.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,129,1,176.227.240.17,,,SUCCESS,
+2026-01-29 15:09:52,e5507441,https://www.buzzfeed.com/in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,119,2,176.227.240.19,,,SUCCESS,
+2026-01-29 15:10:04,bfc3d291,https://www.telugu.suryaa.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,12,0,176.227.240.79,,,FAIL,"Page.goto: net::ERR_CERT_DATE_INVALID at https://www.telugu.suryaa.com/
+Call log:
+  - navigating to ""https://www.telugu.suryaa.com/"", waiting until ""domcontentloaded""
+"
+2026-01-29 15:10:19,021dc1aa,https://odishabhaskar.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,132,2,176.227.240.19,,,SUCCESS,
+2026-01-29 15:10:39,0ca73c30,https://punjabkesari.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,117,2,176.227.240.79,,,SUCCESS,
+2026-01-29 15:10:48,ef87bdc8,https://www.punjabijagran.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,96,4,176.227.240.79,,,SUCCESS,
+2026-01-29 15:11:27,81632a85,https://niyomiyabarta.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,132,1,176.227.240.79,,,SUCCESS,
+2026-01-29 15:11:41,6146f0cd,https://aajtak.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,82,2,176.227.240.79,,,SUCCESS,
+2026-01-29 15:12:29,15ee8249,https://onlinemalayali.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,145,2,176.227.240.79,,,SUCCESS,
+2026-01-29 15:12:47,188346cf,https://wellnessmama.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,128,2,176.227.240.79,,,SUCCESS,
+2026-01-29 15:12:52,b2d2e2fd,https://irctc.co.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,124,3,176.227.240.79,,,SUCCESS,
+2026-01-29 15:12:55,bc056a4b,https://keralafox.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,25,0,176.227.240.79,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://keralafox.com/
+Call log:
+  - navigating to ""https://keralafox.com/"", waiting until ""domcontentloaded""
+"
+2026-01-29 15:13:06,046325d4,https://oneindia.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,98,2,176.227.240.79,,,SUCCESS,
+2026-01-29 15:13:21,832fd5ce,https://economictimes.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,99,3,176.227.240.79,,,SUCCESS,
+2026-01-29 15:14:05,fd77416d,https://epaper.pragativadi.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,78,3,176.227.240.77,,,SUCCESS,
+2026-01-29 15:14:48,b69044c8,https://www.visalaandhra.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,112,1,176.227.240.77,,,SUCCESS,
+2026-01-29 15:14:56,53193a1c,https://www.espn.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,110,1,176.227.240.77,,,SUCCESS,
+2026-01-29 15:15:18,b0af7a7f,https://androidauthority.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,145,2,176.227.240.77,,,SUCCESS,
+2026-01-29 15:15:48,7205ec6c,https://fitfoodiefinds.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,102,1,176.227.240.31,,,SUCCESS,
+2026-01-29 15:15:54,fb0f07f2,https://gadgetsnow.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,153,0,176.227.240.31,,,SUCCESS,
+2026-01-29 15:16:08,8aebe488,https://msn.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,79,3,176.227.240.31,,,SUCCESS,
+2026-01-29 15:16:14,083d6921,https://dailythanthi.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,77,3,176.227.240.31,,,SUCCESS,
+2026-01-29 15:17:06,372d31ce,https://www.divyabhaskar.co.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,78,3,176.227.240.31,,,SUCCESS,
+2026-01-29 15:17:23,c35453a9,https://virarjun.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,74,3,176.227.240.31,,,SUCCESS,
+2026-01-29 15:17:26,e9a3014c,https://businessinsider.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,3,0,176.227.240.31,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://businessinsider.in/
+Call log:
+  - navigating to ""https://businessinsider.in/"", waiting until ""domcontentloaded""
+"
+2026-01-29 15:17:27,aabda541,https://timesnownews.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,92,3,176.227.240.31,,,SUCCESS,
+2026-01-29 15:17:30,313caf5d,https://prajavani.net,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,132,2,176.227.240.31,,,SUCCESS,
+2026-01-29 15:17:31,1559466e,https://telugulives.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,4,0,176.227.240.31,,,FAIL,"Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://telugulives.com/
+Call log:
+  - navigating to ""https://telugulives.com/"", waiting until ""domcontentloaded""
+"
+2026-01-29 15:18:42,f852e07c,https://www.mangalam.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,95,3,176.227.240.31,,,SUCCESS,
+2026-01-29 15:19:01,b0f369a3,https://www.andhrawatch.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,166,1,176.227.240.31,,,SUCCESS,
+2026-01-29 15:19:14,a69c94b9,https://railyatri.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,102,1,176.227.240.31,,,SUCCESS,
+2026-01-29 15:19:40,62268ce1,https://pregnancy.healthguru.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,25,0,176.227.240.43,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://pregnancy.healthguru.com/
+Call log:
+  - navigating to ""https://pregnancy.healthguru.com/"", waiting until ""domcontentloaded""
+"
+2026-01-29 15:19:52,8c3d4292,https://www.v6velugu.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,141,0,176.227.240.31,,,SUCCESS,
+2026-01-29 15:20:18,69d18d96,https://www.hindi.foodviva.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,26,0,176.227.240.43,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hindi.foodviva.com/
+Call log:
+  - navigating to ""https://www.hindi.foodviva.com/"", waiting until ""domcontentloaded""
+"
+2026-01-29 15:20:57,d6e19a79,https://bleacherreport.com/,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,135,1,176.227.240.43,,,SUCCESS,
+2026-01-29 15:21:48,dceb3152,https://www.andhrajyothy.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,167,1,176.227.240.43,,,SUCCESS,
+2026-01-29 15:21:54,c7e14bf2,https://cricschedule.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,6,0,176.227.240.43,,,FAIL,"Page.goto: net::ERR_ABORTED at https://cricschedule.com/
+Call log:
+  - navigating to ""https://cricschedule.com/"", waiting until ""domcontentloaded""
+"
+2026-01-29 15:21:58,b6a8c9cd,https://naidunia.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,272,0,176.227.240.31,,,SUCCESS,
+2026-01-29 15:22:27,1b62afb8,https://beauty-mantra.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,28,0,176.227.240.43,,,FAIL,"Page.goto: net::ERR_CONNECTION_CLOSED at https://beauty-mantra.com/
+Call log:
+  - navigating to ""https://beauty-mantra.com/"", waiting until ""domcontentloaded""
+"
+2026-01-29 15:22:46,fc5b23ed,https://indiatv.in,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,185,1,176.227.240.43,,,SUCCESS,
+2026-01-29 15:22:55,134fb036,https://giznext.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,117,2,176.227.240.43,,,SUCCESS,
+2026-01-29 15:23:13,db237428,https://abplive.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,174,0,176.227.240.43,,,SUCCESS,
+2026-01-29 15:23:22,480bdba7,https://tdstaxindia.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,27,0,176.227.240.43,,,FAIL,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://tdstaxindia.com/
+Call log:
+  - navigating to ""https://tdstaxindia.com/"", waiting until ""domcontentloaded""
+"
+2026-01-29 15:23:36,094c8a1a,https://indiamart.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,102,2,176.227.240.43,,,SUCCESS,
+2026-01-29 15:24:24,b9d84e8b,https://republicworld.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,desktop,70,0,176.227.240.47,,,FAIL,"Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus"", waiting until ""domcontentloaded""
+"
+2026-01-29 15:25:11,8ddd0525,https://indiatimes.com,https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus,mobile,109,0,,,,FAIL,"Page.goto: Navigation to ""https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus"" is interrupted by another navigation to ""https://www.indiatimes.com/""
+Call log:
+  - navigating to ""https://www.timesofindiadigital.com/?utm_source=Januskoncepts&utm_medium=google&utm_campaign=testing&utm_id=janus"", waiting until ""domcontentloaded""
+"
